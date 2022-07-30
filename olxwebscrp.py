@@ -155,6 +155,7 @@ def collect_data_save_table(npages=10):
 
     # Save to csv both data from olx.pl and otodom.pl with month name in file name
     now = datetime.datetime.now()
+    day = now.strftime("%d")
     month = now.strftime("%B")
     year = now.strftime("%Y")
 
@@ -164,7 +165,7 @@ def collect_data_save_table(npages=10):
     for link in tqdm(olx_links):
         olx_data.append(extract_data_olx(link))
 
-    pd.DataFrame(olx_data).to_csv("olx_data_{}_{}.csv".format(month, year))
+    pd.DataFrame(olx_data).to_csv("olx_data_{}_{}_{}.csv".format(day, month, year))
 
     # Extracting data from otodom.pl
     print("Extracting data from otodom.pl...")
@@ -173,7 +174,7 @@ def collect_data_save_table(npages=10):
         otodom_data.append(extract_data_otodom(link))
 
     pd.DataFrame(otodom_data).to_csv(
-        "otodom_data_{}_{}.csv".format(month, year))
+        "otodom_data_{}_{}_{}.csv".format(day, month, year))
 
 
 #### MAIN ####
