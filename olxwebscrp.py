@@ -74,6 +74,7 @@ def extract_data_olx(link):
             "lastRefresh": lastRefresh,
             "price": price,
             "location": location,
+            "url": link,
             **params_dic
         }
 
@@ -123,7 +124,8 @@ def extract_data_otodom(link):
             "date_created": date_created,
             "date_lastmod": date_lastmod,
             "rooms": rooms,
-            "builttype": builttype
+            "builttype": builttype,
+            "url": link
         }
 
     except:
