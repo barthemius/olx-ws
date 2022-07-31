@@ -3,4 +3,7 @@
 # The data is collected from olx.pl and otodom.pl.
 #
 
-from dash import Dash, callback_context, no_update
+from dash import Dash, callback_context, no_update, html, Input, Output, dcc
+
+app = Dash(__name__)
+
