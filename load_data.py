@@ -26,7 +26,10 @@ class DataSet:
         return self.data.loc[:, "rooms"]
 
     def days_passed(self):
-        return (self.data['date_lastmod'].apply(datetime.fromisoformat) - self.data['date_created'].apply(datetime.fromisoformat)).dt.days
+        dt = pd.DataFrame()
+        dt['days_passed'] = (self.data['date_lastmod'].apply(datetime.fromisoformat) - self.data['date_created'].apply(datetime.fromisoformat)).dt.days
+
+        return dt
 
 
 # Get csv filenames from the present directory
