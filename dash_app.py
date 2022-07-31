@@ -31,20 +31,44 @@ app.layout = html.Div(
             value=dropdown_options[0]
             ),
 
-        # Plots
+        # Plots 2x2 grid
+
         html.Div(
-            id='plots',
-            children=[
-                dcc.Graph(id="price-hist"),
-                dcc.Graph(id="price-per-m2-hist"),
-                dcc.Graph(id="build-year-hist"),
-                dcc.Graph(id="rooms-pie"),
-                dcc.Graph(id="days-on-market-hist"),
-            ]
+            [
+            html.Div(
+                id='first_col',
+                children=[
+                    dcc.Graph(id="price-hist"),
+                    dcc.Graph(id="days-on-market-hist"),   
+                ],
+                style={'padding': 10, 'flex': 1}
+            ),
+
+            html.Div(
+                id='second_col',
+                children=[
+                    dcc.Graph(id="price-per-m2-hist"),
+                    dcc.Graph(id="rooms-pie")
+                ],
+                style={'padding': 10, 'flex': 1}
+            ),
+        ],
+        style={'display': 'flex', 'flex-direction': 'row'}
         ),
-    ]
+
+        html.Div(
+                id='build_year_row',
+                children=[
+                    dcc.Graph(id="build-year-hist")
+                ],
+            ),
+    ],
 )
 
+
+                
+                
+# TODO https://plotly.com/python/figure-labels/               
 
 # Callback for the every graph
 @app.callback(
