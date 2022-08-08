@@ -59,11 +59,11 @@ def load_data(filenames):
         y = filename.split("_")[4][:-4]
 
         if "olx" in filename:
-            olx_data.append(pd.read_csv(filename, index_col=0))
+            olx_data.append(pd.read_csv("data/" + filename, index_col=0))
             olx_time.append(datetime.strptime(d + " " + m + " " + y, "%d %B %Y"))
 
         elif "otodom" in filename:
-            otodom_data.append(pd.read_csv(filename, index_col=0))
+            otodom_data.append(pd.read_csv("data/" + filename, index_col=0))
             otodom_time.append(datetime.strptime(d + " " + m + " " + y, "%d %B %Y"))
     
     # Clean data
