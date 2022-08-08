@@ -68,7 +68,7 @@ app.layout = html.Div(
 
                 
                 
-# TODO https://plotly.com/python/figure-labels/               
+# TODO 'https://plotly.com/python/figure-labels/ '              
 
 # Callback for the every graph
 @app.callback(
@@ -86,7 +86,15 @@ def update_price_graph(input_value):
         
     # Create the figure
     full_data = pd.concat((dolx.price(), dod.price()))
-    fig = px.histogram(full_data, x="price", nbins=30)
+    fig = px.histogram(
+        full_data,
+        x="price",
+        nbins=30,
+        title="Price distribution",
+        labels = {"price": "Price", "count": "Count"},
+    )
+
+
 
     return fig
 
@@ -106,7 +114,13 @@ def update_price_per_m2_graph(input_value):
         
     # Create the figure
     full_data = pd.concat((dolx.ppm2(), dod.ppm2()))
-    fig = px.histogram(full_data, x="price_per_m2", nbins=50)
+    fig = px.histogram(
+        full_data, 
+        x="price_per_m2", 
+        nbins=50,
+        title="Price per m2 distribution",
+        labels = {"price_per_m2": "Price per m2", "count": "Count"}
+        )
 
     return fig
 
@@ -129,7 +143,14 @@ def update_build_year_graph(input_value):
     # Clear stupid entries
     full_data = full_data[(full_data > 1800) & (full_data < reliable_future)]
 
-    fig = px.histogram(full_data, x="build_year", nbins=30)
+    fig = px.histogram(
+        full_data, 
+        x="build_year", 
+        nbins=30,
+        title="Build year distribution",
+        labels = {"build_year": "Build year", "count": "Count"}
+        )
+
 
     return fig
 
@@ -149,7 +170,13 @@ def update_rooms_pie_graph(input_value):
         
     # Create the figure
     full_data = pd.concat((dolx.rooms(), dod.rooms()))
-    fig = px.pie(full_data, values="rooms", names="rooms")
+    fig = px.pie(
+        full_data, 
+        values="rooms", 
+        names="rooms",
+        title="Rooms distribution",
+        labels = {"rooms": "Rooms", "count": "Count"}
+        )
 
     return fig
 
@@ -169,7 +196,13 @@ def update_days_on_market_graph(input_value):
         
     # Create the figure
     full_data = pd.concat((dolx.days_passed(), dod.days_passed()))
-    fig = px.histogram(full_data, x="days_passed", nbins=30)
+    fig = px.histogram(
+        full_data, 
+        x="days_passed", 
+        nbins=30,
+        title="Days on market distribution",
+        labels = {"days_passed": "Days on market", "count": "Count"}
+        )
 
     return fig
 
