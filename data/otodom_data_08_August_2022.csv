@@ -1,0 +1,633 @@
+,m,build_year,location,floor,id,market,price,price_per_m2,date_created,date_lastmod,rooms,builttype,url
+0,88.1,1991,lublin,floor_4,61863551,secondary,560000,6356,2021-05-18 13:31:36,2022-08-08 17:48:41,4,tenement,https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-88-10-m2-srodmiescie-ID4bzxd.html
+1,85.3,1980,lublin,floor_2,63299855,secondary,515000,6038,2022-07-14 09:41:57,2022-08-08 17:43:01,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-85mkw4-5-pokoi-lokata-kapitalu-ID4hBbp.html
+2,35.29,2022,lublin,floor_1,63335183,secondary,343190,9725,2022-07-25 14:05:40,2022-08-08 17:40:21,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-koralowa-czuby-2022-rok-budowy-ID4hKnd.html
+3,52.04,1956,lublin,floor_4,63315065,secondary,459000,8820,2022-07-18 22:05:21,2022-08-08 17:04:14,2,tenement,https://www.otodom.pl/pl/oferta/srodmiescie-ul-okopowa-2-pokoje-ID4hF8J.html
+4,,,,,,,,,,,,,
+5,46.56,1953,lublin,floor_2,63382627,secondary,320000,6873,2022-08-08 15:23:39,2022-08-08 15:26:59,2,tenement,https://www.otodom.pl/pl/oferta/mieszkanie-dziesiata-ID4hVIr.html
+6,59.89,2022,lublin,ground_floor,63282675,primary,490000,8182,2022-07-09 11:23:22,2022-08-08 15:27:37,3,apartment,https://www.otodom.pl/pl/oferta/mieszkanie-59-56m2-nowe-stan-deweloperski-ogrodek-ID4hvIj.html
+7,37,1980,lublin,floor_4,63382557,secondary,329000,8892,2022-08-08 15:18:29,2022-08-08 15:20:38,2,block,https://www.otodom.pl/pl/oferta/bezposrednio-dwa-pokoje-balkon-po-remoncie-lublin-ID4hVHj.html
+8,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+9,51.5,1960,lublin,ground_floor,63335134,secondary,319000,6194,2022-07-25 13:57:54,2022-08-08 13:58:33,2,block,https://www.otodom.pl/pl/oferta/gotowe-do-wprowadzenia-od-zaraz-bezposrednio-ID4hKmq.html
+10,36,2022,lublin,ground_floor,63381639,secondary,490000,13611,2022-08-08 13:30:02,2022-08-08 13:37:21,2,block,https://www.otodom.pl/pl/oferta/designerskie-mieszkanie-z-ogrodkiem-ID4hVsw.html
+11,126,1935,lublin,floor_3,62907655,secondary,850000,6746,2022-03-23 08:20:15,2022-08-08 12:50:48,6,tenement,https://www.otodom.pl/pl/oferta/127-m2-2-miejsca-postojowe-centrum-ID4fX9B.html
+12,151,2008,lublin,floor_1,62891319,secondary,899000,5954,2022-03-18 11:10:27,2022-08-08 12:50:48,5,block,https://www.otodom.pl/pl/oferta/bezczynszowe-mieszkanie-z-ogrodkiem-i-garazem-ID4fSU7.html
+13,131,1999,lublin,floor_3,62756501,secondary,850000,6489,2022-02-10 14:00:47,2022-08-08 12:50:45,5,block,https://www.otodom.pl/pl/oferta/dwupoziomowe-mieszkanie-na-basniowej-ID4fjPD.html
+14,30,1950,lublin,floor_1,63380415,secondary,215000,7167,2022-08-08 09:33:05,2022-08-08 11:40:51,1,tenement,https://www.otodom.pl/pl/oferta/kawalerka-do-aranzacji-ID4hV8L.html
+15,47.2,1976,lublin,floor_8,63296906,secondary,325000,6886,2022-07-13 13:23:15,2022-08-08 11:23:21,2,block,https://www.otodom.pl/pl/oferta/2-pokojowe-przytulne-mieszkanie-ID4hApQ.html
+16,53.1,1978,lublin,floor_1,63380732,secondary,499000,9397,2022-08-08 10:54:55,2022-08-08 12:05:32,3,block,https://www.otodom.pl/pl/oferta/czechow-3-pokoje-do-wejscia-ID4hVdS.html
+17,47.2,1976,lublin,floor_8,63002639,secondary,325000,6886,2022-04-20 16:13:52,2022-08-08 11:15:37,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-47m2-piwnica-kalina-ID4glRB.html
+18,62.57,2022,lublin,ground_floor,61668511,primary,506817,8100,2021-03-25 18:50:35,2022-08-08 11:04:19,3,block,https://www.otodom.pl/pl/oferta/nowe-3-pokoje-50m2-ogrodek-weglinek-2022r-ID4aKNp.html
+19,28.62,2022,lublin,ground_floor,62456833,primary,257580,9000,2021-11-04 11:00:45,2022-08-08 11:03:54,1,block,https://www.otodom.pl/pl/oferta/nowa-kawalerka-29m2-balkon-5m2-czuby-2022r-ID4e3Sh.html
+20,90.56,2001,lublin,floor_1,63007768,secondary,759000,8381,2022-04-21 19:11:20,2022-08-08 10:58:35,4,block,https://www.otodom.pl/pl/oferta/szerokie-bezczynszowe-4-pokoje-ogrodek-garaz-ID4gnck.html
+21,37.3,2023,lublin,floor_3,62441658,primary,328240,8800,2021-10-29 14:50:54,2022-08-08 11:01:13,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-2-pokoje-37m2-czuby-2023r-ID4dZWv.html
+22,,,,,,,,,,,,,
+23,66,1998,lublin,floor_3,63284677,secondary,570000,8636,2022-07-10 14:29:03,2022-08-08 09:59:31,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-66m2-szczytowa-czuby-ID4hxeB.html
+24,29.49,2023,lublin,floor_3,62429982,primary,280155,9500,2021-10-26 17:50:40,2022-08-08 11:02:14,1,block,https://www.otodom.pl/pl/oferta/nowa-kawalerka-30m2-czuby-2023r-ID4dVTc.html
+25,36.84,2023,lublin,ground_floor,62441837,primary,324192,8800,2021-10-29 15:10:53,2022-08-08 11:03:14,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-2-pokoje-37m2-czuby-2023r-ID4dZYp.html
+26,,,,,,,,,,,,,
+27,57.4,1980,lublin,floor_3,63233112,secondary,533000,9286,2022-06-25 14:55:11,2022-07-31 14:22:42,4,block,https://www.otodom.pl/pl/oferta/4-niezalezne-pokoje-winda-inwestycja-pod-najem-ID4hjOU.html
+28,49,1986,lublin,floor_2,63199325,secondary,374000,7633,2022-06-15 11:15:24,2022-08-01 16:09:18,4,block,https://www.otodom.pl/pl/oferta/3-4-pokoje-czechow-ID4hb1X.html
+29,57.79,2022,lublin,ground_floor,63166759,primary,491215,8500,2022-06-06 14:00:52,2022-08-05 14:31:31,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3pok-z-ogrodkiem-147m2-ID4h2yH.html
+30,38.72,1975,lublin,ground_floor,63204428,secondary,298000,7696,2022-06-17 12:56:34,2022-07-25 14:38:31,2,block,https://www.otodom.pl/pl/oferta/dwa-osobne-pokoje-rozklad-parter-ID4hcmg.html
+31,53.53,2022,lublin,floor_1,63175651,primary,440000,8220,2022-06-08 12:41:29,2022-08-07 13:01:24,3,block,https://www.otodom.pl/pl/oferta/trzypokojowe-mieszkanie-w-nowym-bloku-ID4h4S7.html
+32,36,1967,lublin,floor_4,63282993,secondary,289000,8028,2022-07-09 14:15:06,2022-08-08 14:31:31,2,block,https://www.otodom.pl/pl/oferta/do-wejscia-2-pokoje-niski-blok-winda-okazja-ID4hvNr.html
+33,59,1993,lublin,floor_1,63082733,secondary,502000,8508,2022-05-14 13:02:04,2022-07-28 13:02:42,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-lublin-watykanska-1-pietro-3-pokoje-ID4gGHr.html
+34,,,,,,,,,,,,,
+35,,,,,,,,,,,,,
+36,,,,,,,,,,,,,
+37,,,,,,,,,,,,,
+38,42.82,2023,lublin,ground_floor,63052875,primary,351124,8200,2022-05-06 14:01:39,2022-08-04 16:32:40,2,block,https://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-na-ponikwodzie-ID4gyWR.html
+39,,,,,,,,,,,,,
+40,57.82,1975,lublin,floor_4,62927720,secondary,500000,8648,2022-03-29 09:55:38,2022-08-07 18:55:27,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-rustykalne-indywidualne-do-wejscia-ID4g2ne.html
+41,,,,,,,,,,,,,
+42,55,2011,lublin,ground_floor,62822449,secondary,499000,9073,2022-02-28 11:34:41,2022-07-28 12:45:42,3,block,https://www.otodom.pl/pl/oferta/czuby-3-pokoje-ogrod-30m2-ID4fAZj.html
+43,45.01,2023,lublin,ground_floor,62708726,primary,396088,8800,2022-01-28 10:51:25,2022-07-27 12:15:22,2,block,https://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-weglinek-ID4f7p4.html
+44,48.3,2000,lublin,ground_floor,62863737,secondary,480000,9938,2022-03-10 17:32:41,2022-08-07 18:45:43,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-z-ogrodkiem-wieniawa-ID4fLJf.html
+45,49,2005,lublin,floor_2,62506545,secondary,415000,8469,2021-11-19 11:46:06,2022-08-02 10:57:06,2,block,https://www.otodom.pl/pl/oferta/agatowa-2-pietro-do-wejscia-2-pokoje-parking-ID4egO5.html
+46,57.9,1973,lublin,ground_floor,62528897,secondary,415000,7168,2021-11-26 13:02:24,2022-08-05 10:57:59,4,block,https://www.otodom.pl/pl/oferta/kalinowszczyzna-58m2-niski-blok-4-pokoje-ID4emCB.html
+47,60.72,2022,lublin,floor_1,63189675,primary,546480,9000,2022-06-11 23:43:14,2022-08-06 23:50:37,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-lublin-czechow-60-72m2-ID4h8vj.html
+48,41.14,2022,lublin,floor_1,62249692,primary,363000,8824,2021-09-06 16:43:15,2022-08-08 13:37:42,2,block,https://www.otodom.pl/pl/oferta/stan-deweloperski-dostepne-07-2022-do-negocjacji-ID4dbZi.html
+49,53.97,2022,lublin,floor_5,62591550,primary,437157,8100,2021-12-17 13:13:07,2022-08-02 17:14:18,3,block,https://www.otodom.pl/pl/oferta/3-pok-bez-pcc-klucze-mp-ID4eCW8.html
+50,48,1978,lublin,floor_9,62812621,secondary,299000,6229,2022-02-24 13:53:53,2022-07-25 14:10:15,3,block,https://www.otodom.pl/pl/oferta/okazja-3-pokoje-blekitna-ID4fyqN.html
+51,50.92,2023,lublin,floor_2,62685781,primary,358986,7050,2022-01-21 14:02:27,2022-07-25 12:04:36,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkania-okolice-abramowickiej-ID4f1qZ.html
+52,47.9,1991,lublin,floor_1,61592042,secondary,395000,8246,2021-03-07 11:28:08,2022-07-28 08:38:48,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-ID4aqU2.html
+53,,,,,,,,,,,,,
+54,30.33,1960,lublin,floor_1,62810465,secondary,255000,8408,2022-02-23 22:15:18,2022-07-25 14:10:14,2,tenement,https://www.otodom.pl/pl/oferta/2-pokoje-po-remoncie-blisko-centrum-dziesiata-ID4fxS1.html
+55,50.77,2023,lublin,ground_floor,62784080,primary,357928,7050,2022-02-17 15:12:12,2022-07-25 11:20:51,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pok-sloneczne-z-pieknym-widokiem-ID4fr0s.html
+56,,,,,,,,,,,,,
+57,,,,,,,,,,,,,
+58,80.69,2010,lublin,floor_2,62281443,secondary,649000,8043,2021-09-15 11:42:12,2022-07-31 01:30:15,3,block,https://www.otodom.pl/pl/oferta/81m2czubydo-wejscia2-pietroteren-ogrodzony-ID4dkfp.html
+59,43.96,1889,lublin,floor_4,63060782,secondary,459000,10441,2022-05-09 14:14:25,2022-08-07 15:01:37,2,tenement,https://www.otodom.pl/pl/oferta/centrum-wieniawska-2-pokoje-ID4gAZo.html
+60,,,,,,,,,,,,,
+61,,,,,,,,,,,,,
+62,85,2011,lublin,floor_3,62843466,secondary,690000,8118,2022-03-04 17:52:13,2022-08-01 19:16:10,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-poziomowe-bazylianowka-ID4fGsi.html
+63,,,,,,,,,,,,,
+64,,,,,,,,,,,,,
+65,48.2,1978,lublin,floor_1,62768559,secondary,459000,9523,2022-02-14 12:12:08,2022-07-25 16:12:32,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pok-na-kalinowszczyznie-ID4fmY7.html
+66,,,,,,,,,,,,,
+67,47.46,2001,lublin,floor_3,62946417,secondary,340000,7164,2022-04-03 10:01:28,2022-08-05 15:42:53,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-poddasze-47m2-pilna-sprzedaz-ID4g7eN.html
+68,61.8,1973,lublin,floor_1,63170353,secondary,485000,7848,2022-06-07 11:51:26,2022-08-06 12:15:48,4,block,https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-ul-p-wolodyjowskiego-lsm-ID4h3uF.html
+69,99.8,2001,lublin,floor_2,62985394,secondary,799000,8006,2022-04-14 10:22:33,2022-07-25 11:57:17,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-99-80-m-lublin-ID4ghns.html
+70,60.49,2008,lublin,ground_floor,62828421,secondary,554500,9167,2022-03-01 14:02:05,2022-07-29 15:15:22,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-61-m-2-bazylianowka-ID4fCxD.html
+71,51.54,2008,lublin,ground_floor,62925712,secondary,489000,9488,2022-03-28 15:50:40,2022-07-26 20:09:03,2,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-ul-dozynkowa-ID4g1QQ.html
+72,54.5,1965,lublin,floor_2,63073867,secondary,489000,8972,2022-05-12 11:03:39,2022-08-05 22:11:42,3,block,https://www.otodom.pl/pl/oferta/piekne-trzypokojowe-mieszkanie-na-lsm-ie-ID4gEor.html
+73,,,,,,,,,,,,,
+74,49.3,2022,lublin,floor_4,63379939,secondary,525000,10649,2022-08-08 06:29:06,2022-08-08 06:30:17,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-lublin-ul-wolinskiego-blok-2022-ID4hV15.html
+75,71.1,2012,lublin,floor_3,63379808,secondary,680000,9564,2022-08-07 22:51:10,2022-08-07 22:51:35,3,block,https://www.otodom.pl/pl/oferta/wyjatkowe-mieszkanie-z-tarasem-i-antresola-ID4hWYY.html
+76,75.4,2006,lublin,floor_2,63379675,secondary,677000,8979,2022-08-07 21:16:09,2022-08-08 15:04:09,3,block,https://www.otodom.pl/pl/oferta/nowoczesne-75m2-czuby-3-pok-2-lazienki-2-balk-ID4hWVP.html
+77,,,,,,,,,,,,,
+78,28,2021,lublin,ground_floor,63331788,secondary,334700,11954,2022-07-23 20:30:44,2022-08-07 20:32:18,1,apartment,https://www.otodom.pl/pl/oferta/nowoczesna-kawalerka-z-ogrodkiem-i-klimatyzacja-ID4hJus.html
+79,48.9,1986,lublin,floor_3,63326069,secondary,359900,7360,2022-07-21 15:55:33,2022-08-07 18:55:51,2,block,https://www.otodom.pl/pl/oferta/2-3-pokoje-dwustronne-duzy-balkon-niski-blok-ID4hI0d.html
+80,68.08,2022,lublin,floor_1,63283361,secondary,558256,8200,2022-07-09 18:25:31,2022-08-07 17:57:03,3,block,https://www.otodom.pl/pl/oferta/eko-park-w-stanie-deweloperskim-bez-posrednikow-ID4hvTn.html
+81,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+82,60,2008,lublin,floor_2,63322701,secondary,530000,8833,2022-07-20 17:01:51,2022-08-07 15:33:26,3,block,https://www.otodom.pl/pl/oferta/przestronne-trzy-pokoje-na-ponikwodzie-ID4hH7T.html
+83,71.58,2008,lublin,ground_floor,63332856,secondary,599000,8368,2022-07-24 20:57:38,2022-08-07 15:29:52,3,block,https://www.otodom.pl/pl/oferta/przestronne-3-pokoje-w-bardzo-dobrej-lokalizacji-ID4hJLG.html
+84,60.3,1979,lublin,floor_2,63366046,secondary,449000,7446,2022-08-03 12:59:12,2022-08-07 15:23:08,3,block,https://www.otodom.pl/pl/oferta/czuby-3-pokoje-blisko-uczelni-niski-blok-2-4-ID4hSp0.html
+85,,,,,,,,,,,,,
+86,70.96,2022,lublin,floor_2,63289724,primary,575000,8103,2022-07-11 18:21:30,2022-08-07 14:15:18,3,apartment,https://www.otodom.pl/pl/oferta/lublin-czuby-orkana-residence-okazja-na-juz-ID4hyy0.html
+87,45.7,1968,lublin,floor_4,63278524,secondary,347000,7593,2022-07-08 10:35:34,2022-08-07 10:45:42,2,block,https://www.otodom.pl/pl/oferta/2-3-pokoje-lsm-ul-skierki-ID4hwDm.html
+88,52,1988,lublin,ground_floor,63133154,secondary,499000,9596,2022-05-27 14:30:07,2022-08-03 08:18:31,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-52m2-mieszkanie-stolarza-do-wejscia-ID4gTOG.html
+89,50.91,2020,lublin,ground_floor,63190508,secondary,580000,11393,2022-06-12 19:33:49,2022-08-07 19:36:32,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-51m2-3-pokoje-ogrod-100m2-wrotkow-ID4h8JK.html
+90,27,1967,lublin,floor_2,63131776,secondary,235000,8704,2022-05-27 11:24:19,2022-07-28 13:28:07,1,block,https://www.otodom.pl/pl/oferta/kawalerka-z-balkonem-okazja-ID4gTss.html
+91,,,,,,,,,,,,,
+92,62.8,1988,lublin,floor_4,63080948,secondary,480000,7643,2022-05-13 17:03:14,2022-07-18 20:23:16,3,block,https://www.otodom.pl/pl/oferta/trzypokojowe-wieniawa-ul-pulawska-ID4gGeE.html
+93,,,,,,,,,,,,,
+94,78,2007,lublin,floor_1,63231921,secondary,499000,6397,2022-06-24 18:22:59,2022-08-05 17:31:29,3,house,https://www.otodom.pl/pl/oferta/bezczynszowe-mieszkanie-78m2-taras-garaz-ogrode-ID4hjwH.html
+95,61.1,1979,lublin,floor_4,63232287,secondary,499000,8167,2022-06-24 22:05:20,2022-07-25 09:08:12,3,block,https://www.otodom.pl/pl/oferta/czuby-ul-goscinna-3-pokoje-ID4hjBB.html
+96,38,2021,lublin,ground_floor,63186022,secondary,320000,8421,2022-06-10 14:51:48,2022-08-08 10:00:42,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-z-tarasem-2-pokojowe-wrotkow-ID4h7zo.html
+97,38.21,1957,lublin,floor_4,63015785,secondary,389000,10181,2022-04-25 10:52:24,2022-08-03 12:52:19,2,block,https://www.otodom.pl/pl/oferta/atrakcyjna-lokalizacja-centrum-ID4gphD.html
+98,,,,,,,,,,,,,
+99,60,2008,lublin,floor_3,63131621,secondary,459000,7650,2022-05-27 10:55:10,2022-07-28 13:23:25,3,block,https://www.otodom.pl/pl/oferta/do-wejscia-3-pokoje-blok-2008r-okazja-ID4gTpX.html
+100,49.56,2001,lublin,floor_1,63032050,secondary,415000,8374,2022-04-29 07:55:05,2022-08-07 18:55:32,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-1-pietro-duzy-balkon-poreba-ID4gtwY.html
+101,43.41,2022,lublin,ground_floor,62646533,primary,360303,8300,2022-01-11 08:53:00,2022-07-18 19:01:14,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-osiedle-koralowe-k9-61-ID4eRdX.html
+102,70.94,2022,lublin,floor_2,62931060,primary,610000,8599,2022-03-29 17:50:44,2022-08-02 17:13:04,3,apartment,https://www.otodom.pl/pl/oferta/apartament-70-92-m2-orkana-residence-ID4g3f6.html
+103,57.53,2015,lublin,floor_4,62575539,secondary,575000,9995,2021-12-12 16:02:06,2022-08-05 09:41:22,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-ul-koralowa-z-klimatyzacja-ID4eyKT.html
+104,48.29,2011,lublin,floor_3,63325730,secondary,419000,8677,2022-07-21 14:54:24,2022-08-07 09:19:23,2,block,https://www.otodom.pl/pl/oferta/nowoczesne-2-pokoje-winda-duzy-balkon-ID4hHUK.html
+105,73.86,2011,lublin,floor_3,63376045,secondary,659000,8922,2022-08-05 15:54:07,2022-08-07 09:17:05,3,block,https://www.otodom.pl/pl/oferta/3-pokojowe-w-bardzo-wysokim-standardzie-ID4hW0h.html
+106,56,2000,lublin,floor_3,63376374,secondary,465000,8304,2022-08-05 17:03:26,2022-08-08 08:39:03,3,block,https://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-56m2-ul-jutrzenki-czuby-ID4hW5A.html
+107,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+108,48.1,1976,lublin,floor_2,63378359,secondary,360000,7484,2022-08-06 21:05:35,2022-08-06 21:13:27,3,block,https://www.otodom.pl/pl/oferta/sprzedam-3-pokoje-czechow-ul-braci-wieniawskich-6-ID4hWBB.html
+109,60,1986,lublin,ground_floor,63312645,secondary,409000,6817,2022-07-18 12:54:40,2022-08-07 09:14:24,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-duzy-balkon-niski-blok-rozklad-ID4hEwH.html
+110,60,1975,lublin,floor_1,63312647,secondary,535000,8917,2022-07-18 12:54:58,2022-08-07 09:15:19,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-pierwsze-pietro-blisko-um-niski-blok-ID4hEwJ.html
+111,50,2001,lublin,floor_1,63375955,secondary,407000,8140,2022-08-05 15:35:11,2022-08-06 19:36:24,2,block,https://www.otodom.pl/pl/oferta/rozkladowe-2-pokoje-1-pietro-os-poreba-ID4hUYP.html
+112,43.12,2022,lublin,ground_floor,63329721,primary,409640,9500,2022-07-22 16:14:32,2022-08-06 16:16:22,2,apartment,https://www.otodom.pl/pl/oferta/mieszkanie-43-12-m-lublin-ID4hIX7.html
+113,67.33,2022,lublin,floor_1,63329686,primary,605970,9000,2022-07-22 16:10:05,2022-08-06 16:11:18,4,apartment,https://www.otodom.pl/pl/oferta/apartament-do-sprzedania-ID4hIVy.html
+114,51.73,2021,lublin,floor_4,63330762,secondary,610414,11800,2022-07-22 23:55:26,2022-08-07 14:33:37,2,apartment,https://www.otodom.pl/pl/oferta/apartamentowiec-wysoki-standard-rozklad-ID4hJdU.html
+115,33,1980,lublin,ground_floor,62868501,secondary,292000,8848,2022-03-11 20:31:56,2022-08-06 14:15:15,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-33-m2-kalina-parter-ID4fMY5.html
+116,58.98,2007,lublin,floor_2,63275070,secondary,579000,9817,2022-07-07 13:22:36,2022-08-06 13:31:46,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-2-balkony-lublin-czuby-poreba-ID4huJE.html
+117,54,1982,lublin,floor_4,63368813,secondary,390000,7222,2022-08-03 18:20:58,2022-08-06 12:39:46,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-do-wlasnej-aranzacji-blisko-wawozu-ID4hT7D.html
+118,58,1975,lublin,floor_3,63347914,secondary,340000,5862,2022-07-28 15:23:43,2022-08-06 12:40:49,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-pod-inwestycje-tatary-ID4hNGy.html
+119,36,1982,lublin,floor_6,62951801,secondary,298000,8278,2022-04-04 18:55:08,2022-08-06 12:40:53,1,block,https://www.otodom.pl/pl/oferta/czechow-os-paderewskiego-przytulna-kawalerka-ID4g8DD.html
+120,,,,,,,,,,,,,
+121,,,,,,,,,,,,,
+122,66,1987,lublin,floor_4,61707678,secondary,389000,5894,2021-04-07 14:13:07,2022-08-06 11:34:19,3,block,https://www.otodom.pl/pl/oferta/rozkladowe-3-pokoje-na-kalinowszczyznie-ID4aUZ8.html
+123,,,,,,,,,,,,,
+124,,,,,,,,,,,,,
+125,,,,,,,,,,,,,
+126,,,,,,,,,,,,,
+127,63,1980,lublin,floor_4,62945528,secondary,447000,7095,2022-04-02 18:45:34,2022-08-01 19:16:20,3,block,https://www.otodom.pl/pl/oferta/nowa-nizsza-cena-czuby-63m2-lublin-ID4g70s.html
+128,,,,,,,,,,,,,
+129,47.8,1993,lublin,floor_1,62871427,secondary,369000,7720,2022-03-13 13:54:57,2022-07-17 18:25:27,2,block,https://www.otodom.pl/pl/oferta/czuby-os-blonie2-3-pokoje1-pietro-ID4fNJh.html
+130,,,,,,,,,,,,,
+131,51.14,1954,lublin,floor_2,63226773,secondary,550000,10755,2022-06-23 15:03:40,2022-08-03 17:55:39,2,tenement,https://www.otodom.pl/pl/oferta/2-pokoje-kul-za-oknem-blizej-sie-nie-da-ID4hiaF.html
+132,60.2,1985,lublin,floor_3,62837480,secondary,437000,7259,2022-03-03 13:27:28,2022-07-31 14:31:24,4,block,https://www.otodom.pl/pl/oferta/4-pok-w-rozkladzie-bez-piecyka-po-remoncie-ID4fETK.html
+133,63.65,1993,lublin,floor_4,62621750,secondary,475000,7463,2022-01-02 18:44:11,2022-08-07 09:08:04,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-trzypokojowe-lublin-wrotkow-medalionow-ID4eKMe.html
+134,68.8,1969,lublin,floor_4,63274815,secondary,549000,7980,2022-07-07 12:52:55,2022-08-06 16:26:08,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-lsm-niski-blok-z-winda-ID4huFx.html
+135,62,2017,lublin,floor_5,63324627,secondary,580000,9355,2022-07-21 12:05:54,2022-08-05 22:11:45,3,block,https://www.otodom.pl/pl/oferta/bronowice-3-pokoje-duzy-balkon-ID4hHCX.html
+136,,,,,,,,,,,,,
+137,38.9,1974,lublin,floor_10,63376178,secondary,299000,7686,2022-08-05 16:20:47,2022-08-05 21:40:58,2,block,https://www.otodom.pl/pl/oferta/lublin-kalinowszczyzna-ul-tumidajskiego-2-pokoje-ID4hW2q.html
+138,60,2016,lublin,floor_2,62982255,secondary,750000,12500,2022-04-13 12:51:24,2022-08-05 18:18:52,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-wiktoryn-ID4ggyP.html
+139,,,,,,,,,,,,,
+140,64.5,1983,lublin,floor_1,63340684,secondary,499000,7736,2022-07-26 18:42:46,2022-08-05 17:38:51,3,house,https://www.otodom.pl/pl/oferta/bezczynszowe-mieszkanie-64-5m2-w-domu-dzielnica-ID4hLNV.html
+141,,,,,,,,,,,,,
+142,,,,,,,,,,,,,
+143,,,,,,,,,,,,,
+144,,,,,,,,,,,,,
+145,,,,,,,,,,,,,
+146,45.43,2022,lublin,floor_1,63375951,primary,515000,11336,2022-08-05 15:32:02,2022-08-07 15:33:23,2,block,https://www.otodom.pl/pl/oferta/nowe-i-gotowe-2-pokoje-bezposrednio-bez-pcc-ID4hUYL.html
+147,,,,,,,,,,,,,
+148,47.23,2008,lublin,ground_floor,63241723,secondary,449000,9507,2022-06-28 13:55:45,2022-08-08 15:55:36,3,block,https://www.otodom.pl/pl/oferta/ponikwoda-3-pokoje-z-2008r-blisko-um-ID4hm3N.html
+149,,,,,,,,,,,,,
+150,47.9,1974,lublin,floor_10,63313723,secondary,345000,7203,2022-07-18 15:45:11,2022-08-05 13:54:41,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-lsm-inwestycyjne-do-wynajmu-ID4hEN5.html
+151,48.9,1984,lublin,floor_2,63327974,secondary,410000,8384,2022-07-22 11:11:20,2022-08-05 13:42:59,2,block,https://www.otodom.pl/pl/oferta/czuby-tatarakowa-49m2-2-pokoje-ii-pietro-ID4hIuV.html
+152,,,,,,,,,,,,,
+153,45.78,1930,lublin,floor_2,63312196,secondary,279000,6094,2022-07-18 11:40:50,2022-08-05 12:05:35,2,tenement,https://www.otodom.pl/pl/oferta/dziesiata-klimatyczne-2-pokoje-w-kamienicy-ID4hEos.html
+154,64,2021,lublin,floor_2,63327953,secondary,529000,8266,2022-07-22 11:10:01,2022-08-07 17:26:53,3,block,https://www.otodom.pl/pl/oferta/piekne-sloneczne-mieszkanie-obok-eko-park-kwarcowa-ID4hIuB.html
+155,24.91,1988,lublin,ground_floor,63222281,secondary,240000,9635,2022-06-22 14:25:57,2022-08-05 22:11:43,1,block,https://www.otodom.pl/pl/oferta/kawalerka-okrzei-do-wejscia-ID4hh0d.html
+156,56,1960,lublin,floor_2,63177405,secondary,349000,6232,2022-06-08 16:21:32,2022-08-07 16:46:28,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-56-m-lublin-ID4h5kp.html
+157,76.16,2022,lublin,ground_floor,63124869,primary,519000,6815,2022-05-25 15:16:36,2022-08-08 16:17:35,4,ribbon,https://www.otodom.pl/pl/oferta/przedsprzedaz-segmenty-przy-sierpinskiego-76mkw-ID4gRF3.html
+158,37.9,1978,lublin,ground_floor,63109209,secondary,319000,8417,2022-05-20 18:52:52,2022-07-25 14:43:30,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-parter-rozklad-inwestycja-ID4gNAt.html
+159,78.26,2019,lublin,floor_3,63132813,secondary,987484,12618,2022-05-27 13:41:13,2022-08-05 13:42:51,4,block,https://www.otodom.pl/pl/oferta/krysztalowa-m5-garderoba-klima-taras-53m2-ID4gTJb.html
+160,,,,,,,,,,,,,
+161,60.1,1980,lublin,floor_5,63030386,secondary,460000,7654,2022-04-28 15:31:38,2022-07-27 16:16:05,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-60m2-czechow-blisko-uczelnie-ID4gt58.html
+162,63.29,2015,lublin,floor_2,63240199,secondary,630000,9954,2022-06-28 09:21:38,2022-08-04 15:51:04,4,block,https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-w-wysokim-standardzie-ID4hlFd.html
+163,76.2,2023,lublin,floor_7,63167371,primary,1203960,15800,2022-06-06 15:12:42,2022-08-05 15:31:24,3,apartment,https://www.otodom.pl/pl/oferta/apartament-w-centrum-lublina-ID4h2Iz.html
+164,93.8,2016,lublin,floor_1,63174600,secondary,889000,9478,2022-06-08 09:10:44,2022-07-26 20:38:38,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-koncertowa-dolina-czechow-ID4h4Ba.html
+165,,,,,,,,,,,,,
+166,,,,,,,,,,,,,
+167,,,,,,,,,,,,,
+168,,,,,,,,,,,,,
+169,59,1998,lublin,floor_3,63272821,secondary,399500,6771,2022-07-06 19:50:32,2022-08-05 19:51:36,3,block,https://www.otodom.pl/pl/oferta/komfortowe-2-poziomy-osiedle-poreba-ID4hu9n.html
+170,49.4,1986,lublin,floor_3,63214769,secondary,434720,8800,2022-06-20 20:56:31,2022-08-05 15:21:40,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-kalinowszczyzna-ul-niepodleglosci-ID4hf33.html
+171,,,,,,,,,,,,,
+172,36.98,1972,lublin,ground_floor,63170832,secondary,299000,8085,2022-06-07 12:53:25,2022-08-06 13:16:03,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-parter-tatary-ID4h3Co.html
+173,72.19,1977,lublin,floor_2,63160515,secondary,675000,9350,2022-06-03 18:47:07,2022-08-06 12:42:13,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-centrum-blisko-miasteczko-akademickie-ID4h0WZ.html
+174,,,,,,,,,,,,,
+175,142.1,2023,lublin,floor_7,63167370,primary,2259390,15900,2022-06-06 15:12:36,2022-08-05 15:31:20,4,apartment,https://www.otodom.pl/pl/oferta/apartament-w-centrum-lublina-ID4h2Iy.html
+176,,,,,,,,,,,,,
+177,,,,,,,,,,,,,
+178,55.6,1966,lublin,floor_1,63240495,secondary,489000,8795,2022-06-28 10:31:28,2022-08-05 09:37:03,3,block,https://www.otodom.pl/pl/oferta/lsm-balladyny-3-pokoje-56m2-1-pietro-klima-ID4hlJZ.html
+179,57.04,2023,lublin,ground_floor,63224033,primary,450616,7900,2022-06-22 20:29:15,2022-08-06 20:31:32,3,apartment,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-3-pokoje-57m-weglinek-ID4hhst.html
+180,50.62,1988,lublin,floor_2,63045723,secondary,330000,6519,2022-05-04 16:10:45,2022-08-03 17:20:11,2,block,https://www.otodom.pl/pl/oferta/okazja-2-pokoje-w-uroczej-lokalizacji-do-remontu-ID4gx4w.html
+181,118.5,2008,lublin,floor_1,61237891,secondary,970000,8186,2020-11-27 17:02:54,2022-07-18 19:11:58,5,ribbon,https://www.otodom.pl/pl/oferta/dwupoziomowe-z-ogrodkiem-ponikwoda-ID48VLW.html
+182,69.5,2015,lublin,floor_3,63199135,secondary,599000,8619,2022-06-15 10:27:22,2022-07-22 13:11:15,3,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanienowe-budownictwoczuby-ID4haYT.html
+183,32.3,1977,lublin,floor_3,63370846,secondary,279700,8659,2022-08-04 10:55:26,2022-08-07 09:30:54,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-wrotkow-balkon-niski-blok-ID4hTEq.html
+184,53,2010,lublin,floor_1,62990399,secondary,635000,11981,2022-04-15 13:50:42,2022-08-06 15:19:09,2,apartment,https://www.otodom.pl/pl/oferta/godebskiego-residense-wieniawa-apartament-53m2-ID4giGb.html
+185,47.4,2022,lublin,ground_floor,61687476,primary,383940,8100,2021-03-31 13:51:05,2022-07-24 17:45:08,3,block,https://www.otodom.pl/pl/oferta/nowe-3-pokoje-ak-47m2-czuby-2022r-ID4aPJi.html
+186,50.91,2020,lublin,ground_floor,63372327,secondary,580000,11393,2022-08-04 15:25:10,2022-08-05 13:43:01,3,block,https://www.otodom.pl/pl/oferta/wrotkow-3-pokoje-51m2-parter-ogrodek-89m2-ID4hU2j.html
+187,66,2019,lublin,floor_7,63224136,secondary,726000,11000,2022-06-22 21:21:42,2022-08-06 21:28:55,3,block,https://www.otodom.pl/pl/oferta/lublin-czuby-jantarowa-ID4hhu8.html
+188,,,,,,,,,,,,,
+189,,,,,,,,,,,,,
+190,69.36,2022,lublin,floor_4,61670411,primary,561816,8100,2021-03-26 12:10:57,2022-07-20 10:47:17,4,block,https://www.otodom.pl/pl/oferta/nowe-4-pokoje-ak-69m2-weglinek-2022r-ID4aLi3.html
+191,,,,,,,,,,,,,
+192,51,1980,lublin,floor_3,63374125,secondary,439000,8608,2022-08-05 09:22:28,2022-08-07 09:23:54,3,block,https://www.otodom.pl/pl/oferta/lublin-mieszkanie-3-pokoje-po-remoncie-ID4hUwj.html
+193,90.7,2023,lublin,floor_6,63172433,primary,1405850,15500,2022-06-07 16:12:51,2022-08-06 16:31:20,4,apartment,https://www.otodom.pl/pl/oferta/apartament-w-centrum-lublina-ID4h42d.html
+194,46.34,1895,lublin,floor_5,63125642,secondary,529000,11416,2022-05-25 17:11:01,2022-08-04 16:23:33,2,tenement,https://www.otodom.pl/pl/oferta/stylowe-mieszkanie-w-sercu-lbn-wieniawska-ID4gRRv.html
+195,31.93,2023,lublin,floor_1,62687237,primary,271405,8500,2022-01-21 18:41:18,2022-07-22 11:23:27,1,block,https://www.otodom.pl/pl/oferta/nowa-kawalerka-31m2-czuby-styczen-2023r-ID4f1Ot.html
+196,,,,,,,,,,,,,
+197,77.1,1993,lublin,floor_2,63208228,secondary,555000,7198,2022-06-18 13:10:04,2022-08-07 08:57:41,4,block,https://www.otodom.pl/pl/oferta/czuby-77-1-m2-4-pokoje-2-pietro-ID4hdly.html
+198,,,,,,,,,,,,,
+199,70.3,1980,lublin,floor_2,63307267,secondary,897000,12760,2022-07-15 20:20:27,2022-08-05 13:13:51,4,block,https://www.otodom.pl/pl/oferta/piekne-w-pelni-wyposazone-mieszkanie-4-pokojowe-ID4hD6X.html
+200,41,1990,lublin,floor_10,63307286,secondary,328000,8000,2022-07-15 20:35:57,2022-08-05 00:52:42,2,block,https://www.otodom.pl/pl/oferta/sloneczne-mieszkanie-na-osiedlu-bronowice-lublin-ID4hD7g.html
+201,66.4,2010,lublin,ground_floor,63373515,secondary,629000,9473,2022-08-04 22:06:31,2022-08-04 22:11:27,3,block,https://www.otodom.pl/pl/oferta/lublin-weglinek-ul-jaspisowa-3-pokoje-ID4hUlt.html
+202,47,1976,lublin,floor_6,63373449,secondary,390000,8298,2022-08-04 21:21:42,2022-08-06 13:53:34,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokojowe-ul-tumidajskiego-ID4hUkp.html
+203,,,,,,,,,,,,,
+204,,,,,,,,,,,,,
+205,,,,,,,,,,,,,
+206,,,,,,,,,,,,,
+207,,,,,,,,,,,,,
+208,82.2,1994,lublin,ground_floor,62767399,secondary,655000,7968,2022-02-13 23:55:24,2022-08-04 15:42:03,4,block,https://www.otodom.pl/pl/oferta/wysoki-parter-4-pokoje-konstantynow-ID4fmFp.html
+209,,,,,,,,,,,,,
+210,76.1,1983,lublin,floor_3,63320608,secondary,499000,6557,2022-07-20 10:53:17,2022-08-04 15:20:37,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-czechow-harnasie-76-metrow-niski-blok-ID4hGA8.html
+211,94.42,1994,lublin,floor_4,63366465,secondary,475000,5031,2022-08-03 13:43:42,2022-08-04 15:20:45,4,block,https://www.otodom.pl/pl/oferta/okazja-cenowa-4-5-pokoje-wrotkow-ul-medalionow-ID4hSwL.html
+212,62.5,1992,lublin,floor_3,63293359,secondary,490000,7840,2022-07-12 15:13:39,2022-08-05 12:24:44,3,block,https://www.otodom.pl/pl/oferta/czuby-3-pokoje-62-50m-ID4hzuD.html
+213,53.02,2013,lublin,floor_6,63316979,secondary,499000,9412,2022-07-19 12:54:52,2022-08-04 15:20:38,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-53-m-krysztalowa-weglinek-ID4hFDB.html
+214,59.8,2015,lublin,floor_3,63352426,secondary,499000,8344,2022-07-29 18:12:21,2022-08-05 16:03:17,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-balkon-winda-miejsce-postojowe-ID4hORk.html
+215,48.1,1989,lublin,floor_1,63362682,secondary,429000,8919,2022-08-02 14:43:26,2022-08-06 10:35:20,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-czuby-szmaragdowa-po-remoncie-ID4hRvK.html
+216,49.5,1986,lublin,floor_3,63333815,secondary,319000,6444,2022-07-25 10:35:56,2022-08-08 15:36:08,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-z-potencjalem-duzy-balkon-ID4hK19.html
+217,41.93,1958,lublin,ground_floor,63311331,secondary,415000,9897,2022-07-18 08:15:28,2022-08-04 15:07:16,2,block,https://www.otodom.pl/pl/oferta/inwestycyjne-mieszkanie-srodmiescie-lublin-ID4hEaw.html
+218,63,1988,lublin,floor_1,63303896,secondary,525000,8333,2022-07-15 09:35:33,2022-08-05 12:24:46,3,block,https://www.otodom.pl/pl/oferta/rozkladowe-mieszkanie-3-pokoje-na-czubach-ID4hCeA.html
+219,72,2008,lublin,floor_1,63335258,secondary,599000,8319,2022-07-25 14:14:00,2022-08-05 15:04:18,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-72-mkw-1-3-p-winda-ID4hKoq.html
+220,37,1995,lublin,ground_floor,63371985,secondary,347000,9378,2022-08-04 14:17:27,2022-08-06 14:22:05,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-kalinowszczyzna-wysoki-standard-ID4hTVN.html
+221,50,2022,lublin,floor_4,63371859,secondary,530000,10600,2022-08-04 13:55:31,2022-08-04 14:26:24,3,block,https://www.otodom.pl/pl/oferta/nowe-3-pokoje-nad-slonecznym-zalewem-ID4hTUL.html
+222,76.7,1960,lublin,floor_2,63371250,secondary,620000,8083,2022-08-04 12:25:56,2022-08-04 13:09:16,5,block,https://www.otodom.pl/pl/oferta/3-kawalerki-pakiet-inwestycyjny-w-cenrtum-ID4hTKV.html
+223,38,1980,lublin,floor_3,63265854,secondary,390000,10263,2022-07-05 12:44:38,2022-08-04 12:45:51,2,block,https://www.otodom.pl/pl/oferta/lsm-dwupokojowe-mieszkanie-po-generalnym-remoncie-ID4hsl0.html
+224,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+225,48,1979,lublin,floor_4,62982696,secondary,409000,8521,2022-04-13 13:53:02,2022-08-04 13:55:33,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-niski-blok-widokowe-ID4ggFV.html
+226,87.1,1994,lublin,floor_4,63300909,secondary,490000,5626,2022-07-14 12:55:33,2022-08-07 09:20:23,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-do-wejscia-na-wrotkowie-ID4hBsp.html
+227,44,2022,lublin,floor_3,63265602,primary,303738,6903,2022-07-05 12:04:51,2022-08-04 12:16:31,2,apartment,https://www.otodom.pl/pl/oferta/bez-wkladu-wlasnego-tylko-u-nas-okazja-ID4hsgV.html
+228,,,,,,,,,,,,,
+229,,,,,,,,,,,,,
+230,62.6,2012,lublin,floor_3,63324324,secondary,520000,8307,2022-07-21 11:03:12,2022-08-04 10:53:46,3,block,https://www.otodom.pl/pl/oferta/weglin-3-pokoje-do-wejscia-ID4hHy4.html
+231,37.36,1968,lublin,floor_3,63267408,secondary,375000,10037,2022-07-05 16:12:44,2022-08-05 22:11:44,2,block,https://www.otodom.pl/pl/oferta/2pokoje-bez-piecyka-centrum-ID4hsK4.html
+232,,,,,,,,,,,,,
+233,,,,,,,,,,,,,
+234,49.64,1950,lublin,floor_3,63199454,secondary,398000,8018,2022-06-15 11:47:22,2022-07-21 12:08:42,2,tenement,https://www.otodom.pl/pl/oferta/mieszkanie-przy-starym-miescie-blisko-um-ID4hb42.html
+235,37,1975,lublin,floor_4,63370848,secondary,329000,8892,2022-08-04 10:55:33,2022-08-04 10:57:32,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-po-remoncie-winda-balkon-ID4hTEs.html
+236,,,,,,,,,,,,,
+237,87.1,1991,lublin,floor_4,63297955,secondary,470000,5396,2022-07-13 16:01:13,2022-08-08 18:15:34,4,block,https://www.otodom.pl/pl/oferta/przestronne-cztery-pokoje-wrotkow-ID4hAGL.html
+238,40.19,2024,lublin,floor_2,62974424,primary,317500,7900,2022-04-11 13:31:24,2022-08-05 22:11:42,2,block,https://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-przy-ul-jemioluszki-ID4gevv.html
+239,,,,,,,,,,,,,
+240,,,,,,,,,,,,,
+241,43,1970,lublin,floor_3,63215727,secondary,359000,8349,2022-06-21 09:56:19,2022-08-07 18:55:42,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-komfort-po-remoncie-balkon-ID4hfiw.html
+242,,,,,,,,,,,,,
+243,46.5,1979,lublin,floor_1,62845004,secondary,385000,8280,2022-03-05 15:45:08,2022-08-02 17:16:38,3,block,https://www.otodom.pl/pl/oferta/3-pokojowe-bronowice-1-pietro-okazja-ID4fGR6.html
+244,35.1,1970,lublin,floor_4,62789963,secondary,329000,9373,2022-02-18 16:55:36,2022-07-26 21:55:21,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-35-10-m2-tatary-ID4fsxl.html
+245,70.07,2005,lublin,floor_2,62776793,secondary,529000,7550,2022-02-15 22:41:17,2022-07-21 14:38:42,3,block,https://www.otodom.pl/pl/oferta/przestronne-na-drugim-pietrze-w-niskim-bloku-ID4fp6W.html
+246,41,1970,lublin,floor_10,62655156,secondary,325000,7927,2022-01-13 10:30:48,2022-07-13 10:29:47,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-41-m2-bronowice-ID4eTt2.html
+247,30.34,1960,lublin,floor_1,62810544,secondary,249000,8207,2022-02-23 22:54:50,2022-07-25 14:10:15,1,tenement,https://www.otodom.pl/pl/oferta/kawalerka-po-remoncie-blisko-centrum-dziesiata-ID4fxTi.html
+248,41.18,2021,lublin,floor_3,62711539,secondary,442000,10733,2022-01-28 20:45:22,2022-08-01 12:12:52,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-2-pokoje-czuby-nowy-blok-ID4f88r.html
+249,30.52,1960,lublin,floor_1,62810416,secondary,249000,8159,2022-02-23 21:55:22,2022-07-25 14:10:14,2,tenement,https://www.otodom.pl/pl/oferta/2-pokoje-po-remoncie-blisko-centrum-dziesiata-ID4fxRe.html
+250,46.13,2022,lublin,ground_floor,62804933,secondary,385900,8365,2022-02-22 17:40:52,2022-07-22 18:45:28,3,block,https://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-mala-dziesiata-na-juz-ID4fvqN.html
+251,38,2005,lublin,floor_2,63284509,secondary,375000,9868,2022-07-10 12:54:23,2022-08-08 09:15:37,1,block,https://www.otodom.pl/pl/oferta/mieszkanie-38m-startowa-balkon-piwnica-ID4hxbT.html
+252,55.81,2022,lublin,floor_2,63110794,primary,420000,7526,2022-05-21 17:25:55,2022-08-06 09:53:28,3,block,https://www.otodom.pl/pl/oferta/na-juz-gotowe-nowe-projekt-bez-posrednika-ID4gO02.html
+253,46.66,2022,lublin,ground_floor,63110747,primary,370000,7930,2022-05-21 16:52:20,2022-08-06 09:54:58,2,block,https://www.otodom.pl/pl/oferta/m-z-ogrodkiem-na-juz-gotowe-projekt-bezposrednio-ID4gNZh.html
+254,,,,,,,,,,,,,
+255,,,,,,,,,,,,,
+256,52,1980,lublin,floor_4,63370026,secondary,399000,7673,2022-08-03 22:18:11,2022-08-08 17:25:18,2,block,https://www.otodom.pl/pl/oferta/przytulne-mieszkanie-na-czechowie-duzy-balkon-ID4hTrc.html
+257,54,2014,lublin,floor_2,63369927,secondary,520000,9630,2022-08-03 21:28:43,2022-08-07 17:20:53,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-do-wejscia-koralowa-54-m-3pokoje-ID4hTpB.html
+258,61.8,1998,lublin,floor_3,63322968,secondary,379000,6133,2022-07-20 18:34:39,2022-08-07 21:30:45,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-61-8m2-lublin-poreba-dobry-dojazd-ID4hHcc.html
+259,,,,,,,,,,,,,
+260,57,2020,lublin,floor_10,63322930,secondary,1220000,21404,2022-07-20 18:17:31,2022-08-07 18:31:14,2,apartment,https://www.otodom.pl/pl/oferta/unia-art-residence-10p-widok-57m2-basen-fitnes-ID4hHbA.html
+261,,,,,,,,,,,,,
+262,21.65,1967,lublin,ground_floor,63363091,secondary,185000,8545,2022-08-02 15:32:30,2022-08-08 17:40:47,1,block,https://www.otodom.pl/pl/oferta/kawalerka-z-balkonem-do-remontu-ID4hRDl.html
+263,41.22,2022,lublin,floor_1,63330599,primary,280296,6800,2022-07-22 21:26:05,2022-08-07 17:56:53,2,apartment,https://www.otodom.pl/pl/oferta/jedynie-w-sierpniu-najtaniej-w-lublinie-okazja-ID4hJbh.html
+264,61,1978,lublin,floor_10,63302342,secondary,499000,8180,2022-07-14 16:25:05,2022-08-03 17:55:55,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-po-remoncie-bronowice-ID4hBPv.html
+265,57,2022,lublin,ground_floor,63322755,primary,420000,7368,2022-07-20 17:18:18,2022-08-07 17:19:24,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-3-pokoje-57m2-jemioluszki-ID4hH8L.html
+266,47.5,1965,lublin,floor_2,63262930,secondary,299999,6316,2022-07-04 16:33:38,2022-08-03 16:45:53,3,block,https://www.otodom.pl/pl/oferta/kalinowszczyzna-47-5m2-3-pokoje-inwestycyjnie-ID4hrzQ.html
+267,61,2009,lublin,floor_2,62755161,secondary,540000,8852,2022-02-10 10:06:47,2022-08-05 15:44:47,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-61-m2-ul-dozynkowa-lublin-ID4fju1.html
+268,48,1977,lublin,ground_floor,62687104,secondary,385000,8021,2022-01-21 17:57:02,2022-08-05 15:19:22,3,block,https://www.otodom.pl/pl/oferta/3pokoje-parter-czechow-do-remontu-do-negocjacji-ID4f1Mk.html
+269,72,2008,lublin,floor_1,63366946,secondary,599000,8319,2022-08-03 14:41:25,2022-08-03 16:21:26,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-z-garderoba-zamkniete-osiedle-ID4hSDv.html
+270,79.32,1995,lublin,floor_3,63367038,secondary,560000,7060,2022-08-03 14:52:51,2022-08-07 15:21:15,3,block,https://www.otodom.pl/pl/oferta/lsm-doskonala-lokalizacja-parking-za-szlabanem-ID4hSF0.html
+271,69.4,2021,sroda-wielkopolska,ground_floor,63367007,primary,329000,4741,2022-08-03 14:46:33,2022-08-08 09:55:16,3,ribbon,https://www.otodom.pl/pl/oferta/dom-z-ogrodem-zamieszkaj-nieopodal-poznania-ID4hSEw.html
+272,71.37,1917,lublin,floor_1,63366927,secondary,700000,9808,2022-08-03 14:39:43,2022-08-03 14:40:07,2,tenement,https://www.otodom.pl/pl/oferta/2-pokoje-w-kamienicy-na-wieniawie-ID4hSDd.html
+273,70,2018,lublin,floor_1,63269111,secondary,999000,14271,2022-07-06 07:55:09,2022-08-08 17:52:45,4,block,https://www.otodom.pl/pl/oferta/wygodne-4-pokoje-70m2-1-pietro-srodmiescie-2-m-ID4htbx.html
+274,38.85,1980,lublin,floor_2,63366816,secondary,379000,9755,2022-08-03 14:24:23,2022-08-07 15:21:45,2,block,https://www.otodom.pl/pl/oferta/lsm-rury-dla-studentki-studenta-pary-inwestora-ID4hSBq.html
+275,60.8,1983,lublin,floor_2,63366780,secondary,435000,7155,2022-08-03 14:18:51,2022-08-07 15:22:06,3,block,https://www.otodom.pl/pl/oferta/ustawne-3-4-pokoje-na-czubach-polnocnych-ID4hSAQ.html
+276,,,,,,,,,,,,,
+277,48.2,1980,lublin,floor_3,63366658,secondary,415000,8610,2022-08-03 14:01:34,2022-08-03 14:14:02,3,block,https://www.otodom.pl/pl/oferta/czechow-3-pokoje-blisko-medycznego-ID4hSyS.html
+278,48,1990,lublin,floor_1,63227943,secondary,419000,8729,2022-06-23 20:32:41,2022-08-08 18:15:44,2,block,https://www.otodom.pl/pl/oferta/sloneczne-mieszkanie-na-czubach-ID4hitx.html
+279,36,1969,lublin,floor_6,63128621,secondary,320000,8889,2022-05-26 12:50:44,2022-08-08 18:16:03,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-bez-piecyka-z-balkonem-srodmiescie-ID4gSDz.html
+280,48,1985,lublin,floor_2,63066087,secondary,379000,7896,2022-05-10 15:21:02,2022-08-08 18:15:20,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-niski-blok-os-chopina-ID4gCmX.html
+281,60.8,1989,lublin,floor_2,63366180,secondary,495000,8141,2022-08-03 13:23:07,2022-08-05 13:28:51,3,block,https://www.otodom.pl/pl/oferta/czuby-skarpa-3-pokoje-60-80m2-ID4hSra.html
+282,,,,,,,,,,,,,
+283,57.9,1975,lublin,floor_4,63366149,secondary,380000,6563,2022-08-03 13:16:01,2022-08-07 15:22:16,3,block,https://www.otodom.pl/pl/oferta/ustawne-mieszkanie-na-kalinowszczyznie-ID4hSqF.html
+284,66.1,1965,lublin,floor_1,63352690,secondary,415000,6278,2022-07-29 20:20:58,2022-08-08 18:15:29,3,block,https://www.otodom.pl/pl/oferta/trzy-pokoje-do-wlasnej-aranzacji-lsm-ID4hOWA.html
+285,48.3,1973,lublin,floor_3,63366093,secondary,399000,8261,2022-08-03 13:05:31,2022-08-07 15:22:36,3,block,https://www.otodom.pl/pl/oferta/lsm-3-pokoje-blisko-uczelni-do-wejscia-niski-blok-ID4hSpL.html
+286,,,,,,,,,,,,,
+287,40,2003,lublin,ground_floor,63170231,secondary,415000,10375,2022-06-07 11:31:12,2022-08-08 18:15:52,2,block,https://www.otodom.pl/pl/oferta/dwa-stylowe-pokoje-slawinek-ID4h3sH.html
+288,58,1980,lublin,ground_floor,63281600,secondary,469000,8086,2022-07-08 19:11:19,2022-08-07 19:17:13,3,block,https://www.otodom.pl/pl/oferta/trzy-rozkladowe-pokoje-czechow-ID4hvqY.html
+289,43,1965,lublin,floor_3,63315249,secondary,359000,8349,2022-07-18 23:35:19,2022-08-05 22:11:44,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-z-balkonem-blisko-centrum-ID4hFbH.html
+290,45.89,1965,lublin,floor_2,63312646,secondary,367000,7997,2022-07-18 12:54:51,2022-08-04 11:55:15,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-z-balkonem-do-wejscia-ID4hEwI.html
+291,48.54,2004,lublin,floor_2,62698591,secondary,415000,8550,2022-01-25 15:52:56,2022-08-03 12:48:50,2,block,https://www.otodom.pl/pl/oferta/super-dwa-pokoje-2-pietro-poreba-ID4f4LB.html
+292,,,,,,,,,,,,,
+293,53.65,2014,lublin,floor_2,62842353,secondary,520000,9692,2022-03-04 14:54:00,2022-08-03 13:00:28,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-2-pietro-wysoki-standard-ID4fGal.html
+294,,,,,,,,,,,,,
+295,48.1,1991,lublin,floor_3,63365727,secondary,409000,8503,2022-08-03 11:56:11,2022-08-07 09:17:13,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-duzy-balkon-rozklad-inwestycja-ID4hSjR.html
+296,48,1976,lublin,floor_6,63299252,secondary,394000,8208,2022-07-13 23:05:14,2022-08-03 11:44:14,2,block,https://www.otodom.pl/pl/oferta/rozkladowe-2-pokoje-czechow-blisko-um-ID4hB1G.html
+297,54,1968,lublin,floor_3,63149247,secondary,339000,6278,2022-06-01 11:21:04,2022-08-08 18:15:54,3,block,https://www.otodom.pl/pl/oferta/trzy-pokoje-w-zielonej-okolicy-ID4gY0f.html
+298,69,2001,lublin,floor_3,63228412,secondary,429000,6217,2022-06-24 01:05:31,2022-08-03 11:45:49,3,block,https://www.otodom.pl/pl/oferta/czuby-porebadwupoziomoweduzy-balkon-ID4hiB6.html
+299,,,,,,,,,,,,,
+300,37,1978,lublin,floor_1,63130533,secondary,324000,8757,2022-05-26 19:00:43,2022-08-08 18:15:59,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-blisko-lubelskich-uczelni-ID4gT8p.html
+301,35.4,1980,lublin,ground_floor,63211113,secondary,289000,8164,2022-06-20 09:41:27,2022-08-03 11:42:06,1,block,https://www.otodom.pl/pl/oferta/czuby-kawalerka-35m2-parter-balkon-ID4he65.html
+302,62,2016,lublin,floor_1,63199791,secondary,549000,8855,2022-06-15 13:12:54,2022-08-05 14:43:41,3,block,https://www.otodom.pl/pl/oferta/komfortowe-3-pokoje-na-weglinku-ID4hb9t.html
+303,69.5,2015,lublin,floor_3,63240881,secondary,599000,8619,2022-06-28 11:40:57,2022-08-03 10:00:39,3,block,https://www.otodom.pl/pl/oferta/lublin-weglinek-3-pokoje-z-miejscem-parkingowym-ID4hlQd.html
+304,,,,,,,,,,,,,
+305,,,,,,,,,,,,,
+306,,,,,,,,,,,,,
+307,72,2014,lublin,floor_2,63082724,secondary,625000,8681,2022-05-14 12:55:22,2022-08-04 13:52:56,4,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-4-pokoje-wrotkow-ID4gGHi.html
+308,,,,,,,,,,,,,
+309,62.1,2016,lublin,floor_3,63215040,secondary,560000,9018,2022-06-20 22:20:48,2022-08-06 22:50:53,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-62m2-ul-gesia-3-pokojowe-weglinek-ID4hf7q.html
+310,,,,,,,,,,,,,
+311,62.22,1978,lublin,floor_10,63056000,secondary,439000,7056,2022-05-07 17:22:23,2022-08-08 06:06:19,4,block,https://www.otodom.pl/pl/oferta/1-km-od-centrum-blisko-uczelni-ID4gzKg.html
+312,65.83,2018,lublin,floor_1,63009754,secondary,599000,9099,2022-04-22 13:11:23,2022-08-02 15:23:36,4,block,https://www.otodom.pl/pl/oferta/4pokojowe-mieszkanie-66m2-wrotkow-ID4gnIm.html
+313,30.94,1920,lublin,floor_1,62724002,secondary,255000,8242,2022-02-01 18:31:07,2022-08-05 13:42:34,2,tenement,https://www.otodom.pl/pl/oferta/dziesiata-2-pokoje-31m2-po-remoncie-ID4fbns.html
+314,,,,,,,,,,,,,
+315,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+316,50.94,1960,lublin,floor_2,62729734,secondary,439000,8618,2022-02-03 10:22:14,2022-08-05 13:42:35,3,block,https://www.otodom.pl/pl/oferta/bronowice-sowia-51m2-3-pokoje-po-remoncie-ID4fcRU.html
+317,73.4,1993,lublin,floor_2,63313134,secondary,550000,7493,2022-07-18 14:06:25,2022-08-03 09:43:18,5,block,https://www.otodom.pl/pl/oferta/5-pokoi-z-garazem-po-remoncie-gen-duzy-balkon-ID4hEDA.html
+318,54.7,1967,lublin,floor_1,63078102,secondary,489000,8940,2022-05-13 10:40:57,2022-08-05 13:42:50,3,block,https://www.otodom.pl/pl/oferta/lsm-skierki-3-pokoje-1-pietro-po-remoncie-ID4gFuK.html
+319,47.95,1979,lublin,floor_6,63211427,secondary,425000,8863,2022-06-20 10:55:56,2022-07-22 13:11:16,3,block,https://www.otodom.pl/pl/oferta/inwestycyjne-trzy-pokojelwowskablisko-um-ID4heb9.html
+320,61.1,1980,lublin,floor_4,63214344,secondary,475000,7774,2022-06-20 18:45:10,2022-07-28 11:35:31,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-blisko-ul-filaretow-zana-ID4heVc.html
+321,53.54,2022,lublin,floor_2,61670092,primary,433674,8100,2021-03-26 11:21:08,2022-07-20 10:48:09,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-3-pokoje-53m2-weglinek-2022r-ID4aLcU.html
+322,120,2002,lublin,floor_3,62450840,secondary,755880,6299,2021-11-02 19:11:14,2022-07-28 21:13:59,4,block,https://www.otodom.pl/pl/oferta/dwupoziomowe-sloneczne-mieszkanie-106-120m-czuby-ID4e2jC.html
+323,54,1979,lublin,floor_8,62988067,secondary,449000,8315,2022-04-14 18:35:14,2022-07-22 12:16:21,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-54-m2-lsm-ID4gi4z.html
+324,50.95,1950,lublin,floor_2,63167851,secondary,429000,8420,2022-06-06 16:32:21,2022-08-05 17:01:06,2,tenement,https://www.otodom.pl/pl/oferta/2-pokoje-przy-uniwersytecie-medycznym-2-pietro-ID4h2Qj.html
+325,,,,,,,,,,,,,
+326,,,,,,,,,,,,,
+327,35.2,2022,lublin,ground_floor,63365012,primary,420000,11932,2022-08-03 09:13:31,2022-08-03 09:15:57,2,block,https://www.otodom.pl/pl/oferta/piekne-mieszkanie-na-felinie-35-m2-ID4hS8k.html
+328,35.5,2000,lublin,ground_floor,63204643,secondary,339000,9549,2022-06-17 13:08:24,2022-08-08 14:12:00,1,block,https://www.otodom.pl/pl/oferta/duza-kawalerka-przy-ul-altanowej-35-m2-ID4hcpJ.html
+329,57.86,2008,lublin,floor_2,63219493,secondary,515000,8901,2022-06-21 22:45:16,2022-08-08 14:12:20,3,block,https://www.otodom.pl/pl/oferta/lublin-ul-agatowa-3-pokoje-na-ii-pietrze-ID4hghf.html
+330,53,2022,lublin,floor_3,63320040,primary,395000,7453,2022-07-20 07:32:31,2022-08-07 17:18:50,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkania-3-pokoje-53m-weglinek-ID4hGqY.html
+331,53.23,1961,lublin,ground_floor,63315514,secondary,450000,8454,2022-07-19 06:52:42,2022-08-03 07:00:13,2,block,https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-lublin-ul-wschodnia-ID4hFfY.html
+332,56.82,1975,lublin,ground_floor,63312977,secondary,405000,7128,2022-07-18 13:44:22,2022-08-08 15:55:16,3,block,https://www.otodom.pl/pl/oferta/nadbystrzycka-parter-56-82-mkw-3-pokoje-ID4hEB3.html
+333,50,1979,lublin,ground_floor,63319827,secondary,520000,10400,2022-07-19 23:37:49,2022-08-06 23:40:41,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-lublin-sowinskiego-3-pokoje-ID4hGnx.html
+334,,,,,,,,,,,,,
+335,75.6,2004,lublin,floor_4,63308030,secondary,759000,10040,2022-07-16 11:41:11,2022-08-02 19:32:38,3,block,https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-75-6m2-wrotkow-ID4hDjg.html
+336,75,2002,lublin,floor_3,63364027,secondary,600000,8000,2022-08-02 19:31:15,2022-08-02 19:35:22,4,block,https://www.otodom.pl/pl/oferta/przestronne-dwupoziomowe-mieszkanie-czuby-lublin-ID4hRSr.html
+337,77.14,2012,lublin,ground_floor,63251415,secondary,599000,7765,2022-06-30 15:18:41,2022-08-03 09:54:47,3,block,https://www.otodom.pl/pl/oferta/lublin-relaksowa-77m2-umeblowane-agd-garaz-ID4hoA7.html
+338,40,2016,lublin,floor_1,63314610,secondary,455000,11375,2022-07-18 19:03:54,2022-08-02 19:07:48,2,block,https://www.otodom.pl/pl/oferta/sprzedam-mieszkanie-40m2-na-ul-jantarowej-ID4hF1o.html
+339,60.4,1997,lublin,floor_2,63135335,secondary,487000,8063,2022-05-28 00:12:43,2022-08-02 17:20:17,3,block,https://www.otodom.pl/pl/oferta/zielona-cicha-okolica-kalinowszczyzna-60-4-mkw-ID4gUnR.html
+340,,,,,,,,,,,,,
+341,,,,,,,,,,,,,
+342,56.9,1977,lublin,floor_1,63313950,secondary,430000,7557,2022-07-18 16:20:15,2022-08-02 16:34:51,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-pierwsze-pietro-swietna-lokalizacja-ID4hEQK.html
+343,,,,,,,,,,,,,
+344,,,,,,,,,,,,,
+345,45,1974,lublin,floor_4,63307967,secondary,435000,9667,2022-07-16 10:55:09,2022-08-02 15:40:29,3,block,https://www.otodom.pl/pl/oferta/3-oddzielne-pokoje-lsm-do-wejscia-ID4hDif.html
+346,26.5,1981,lublin,floor_10,63338696,secondary,239000,9019,2022-07-26 12:21:37,2022-08-02 16:12:13,1,block,https://www.otodom.pl/pl/oferta/kawalerka-na-czechowie-ul-sliwinskiego-ID4hLhS.html
+347,56.91,2010,lublin,floor_2,63013311,secondary,549000,9647,2022-04-23 19:10:27,2022-08-02 15:25:22,2,block,https://www.otodom.pl/pl/oferta/ponikwoda-strzembosza-2010-winda-57m-ID4goDJ.html
+348,42.6,2021,lublin,floor_4,63317935,secondary,399999,9390,2022-07-19 15:01:02,2022-08-06 15:12:27,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-dwupokojowe-osiedle-lotnikow-felin-ID4hFT1.html
+349,98.83,2022,lublin,ground_floor,61415192,primary,681927,6900,2021-01-21 12:10:22,2022-08-02 15:05:10,5,block,https://www.otodom.pl/pl/oferta/diamentowe-wzgorze-ul-wolinskiego-blok-h-m45-ID49GTC.html
+350,54.1,1998,lublin,ground_floor,63362650,secondary,449000,8299,2022-08-02 14:39:04,2022-08-07 15:23:06,2,block,https://www.otodom.pl/pl/oferta/slawinek-2-pokoje-blisko-miasteczka-akademickiego-ID4hRve.html
+351,,,,,,,,,,,,,
+352,25.78,2022,lublin,floor_1,63127376,primary,299000,11598,2022-05-26 10:15:13,2022-08-02 13:55:24,1,block,https://www.otodom.pl/pl/oferta/ostatnie-mieszkanie-centrum-lublina-ID4gSju.html
+353,27,1980,lublin,floor_higher_10,63314515,secondary,298000,11037,2022-07-18 18:34:17,2022-08-02 18:36:20,1,block,https://www.otodom.pl/pl/oferta/czechow-kawalerka-z-wydzielona-sypialnia-ID4hEZR.html
+354,60,2008,lublin,floor_3,63317464,secondary,690000,11500,2022-07-19 13:59:00,2022-08-06 10:18:33,3,block,https://www.otodom.pl/pl/oferta/bardzo-ladne-z-wyposazeniem-wolne-od-zaraz-ID4hFLq.html
+355,47,1978,lublin,floor_1,63361013,secondary,435000,9255,2022-08-02 10:43:57,2022-08-08 13:13:01,3,block,https://www.otodom.pl/pl/oferta/perelka-na-niepodleglosci-ID4hR5P.html
+356,28.85,2022,lublin,floor_1,62840818,primary,326005,11300,2022-03-04 11:09:07,2022-08-02 12:00:59,1,apartment,https://www.otodom.pl/pl/oferta/apartamenty-sowinskiego-lublin-apartament-m08-ID4fFLA.html
+357,65.93,2023,lublin,floor_1,62704947,primary,468103,7100,2022-01-27 10:58:04,2022-08-02 11:57:08,3,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-69-ID4f6q7.html
+358,,,,,,,,,,,,,
+359,,,,,,,,,,,,,
+360,36.62,2023,lublin,floor_1,62704946,primary,281974,7700,2022-01-27 10:57:45,2022-08-02 11:57:37,1,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-68-ID4f6q6.html
+361,,,,,,,,,,,,,
+362,46.94,2023,lublin,floor_2,62704967,primary,347356,7400,2022-01-27 11:01:18,2022-08-02 11:57:37,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-79-ID4f6qr.html
+363,,,,,,,,,,,,,
+364,,,,,,,,,,,,,
+365,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+366,57.53,2015,lublin,floor_4,62849160,secondary,575000,9995,2022-03-07 13:05:13,2022-08-04 16:15:36,3,block,https://www.otodom.pl/pl/oferta/czuby-ul-koralowa-3-pokoje-ID4fHV8.html
+367,57.6,2005,lublin,ground_floor,63308233,secondary,499000,8663,2022-07-16 13:23:26,2022-08-05 11:24:18,3,block,https://www.otodom.pl/pl/oferta/orkana-z-2007-roku-3-pokoje-do-wejscia-ID4hDmx.html
+368,85,2001,lublin,floor_3,63311775,secondary,655000,7706,2022-07-18 10:33:30,2022-08-05 10:37:33,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-dwupoziomowe-lublin-ul-zolnierska-85m-ID4hEhF.html
+369,,,,,,,,,,,,,
+370,57.5,1920,lublin,floor_2,63344737,secondary,319000,5548,2022-07-27 17:05:26,2022-08-02 10:53:20,3,tenement,https://www.otodom.pl/pl/oferta/srodmiescie-ul-gorna-3-pokoje-stan-developerski-ID4hMRj.html
+371,49.03,1980,lublin,floor_2,63351493,secondary,389000,7934,2022-07-29 14:43:00,2022-08-03 10:52:51,3,block,https://www.otodom.pl/pl/oferta/wrotkow-3-pokoje-do-wejscia-ID4hOCh.html
+372,39,1976,lublin,floor_7,62957448,secondary,339000,8692,2022-04-06 10:32:56,2022-08-04 11:30:23,2,block,https://www.otodom.pl/pl/oferta/kalinowszczyzna-2-pokoje-do-wejscia-ID4ga6I.html
+373,51.04,2011,lublin,floor_1,63213186,secondary,455000,8915,2022-06-20 15:05:10,2022-07-26 12:31:31,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-taras-z-widokiem-na-zielen-mce-postoj-ID4heDv.html
+374,101,2010,lublin,floor_1,63162238,secondary,895000,8861,2022-06-04 15:31:23,2022-08-08 17:52:44,4,house,https://www.otodom.pl/pl/oferta/komfortowe-4-pokoje-101m2-jeden-poziom-miejsca-g-ID4h1nM.html
+375,46.47,1977,lublin,floor_1,63102883,secondary,325000,6994,2022-05-19 13:22:59,2022-08-01 16:09:16,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-do-wejscia-pierwsze-pietro-ID4gLVr.html
+376,46.47,1977,lublin,floor_1,63102883,secondary,325000,6994,2022-05-19 13:22:59,2022-08-01 16:09:16,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-do-wejscia-pierwsze-pietro-ID4gLVr.html
+377,63.5,2000,lublin,floor_2,63138616,secondary,659000,10378,2022-05-29 21:26:19,2022-08-02 10:55:42,3,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-osiedle-wieniawa-ID4gWeM.html
+378,,,,,,,,,,,,,
+379,68,1976,lublin,floor_7,63111656,secondary,389000,5721,2022-05-22 08:22:28,2022-07-26 05:41:39,4,block,https://www.otodom.pl/pl/oferta/4-sloneczne-pokoje-w-super-lokalizacji-wrotkow-ID4gOdV.html
+380,88.84,2003,lublin,floor_1,63163267,secondary,899000,10119,2022-06-04 22:53:13,2022-08-03 23:15:32,4,ribbon,https://www.otodom.pl/pl/oferta/segment-bezczynszowe-garaz-ogrodek-ID4h1En.html
+381,83,2008,lublin,floor_3,62950961,secondary,569000,6855,2022-04-04 16:11:44,2022-08-04 15:50:59,4,block,https://www.otodom.pl/pl/oferta/dwupoziomowe-funkcjonalne-mieszkanie-na-slawinku-ID4g8q5.html
+382,32,1975,lublin,floor_3,62982085,secondary,279000,8719,2022-04-13 12:22:49,2022-08-08 14:35:27,2,block,https://www.otodom.pl/pl/oferta/32m2-2-pokoje-balkon-lsm-os-konopnickiej-ID4ggv5.html
+383,50,2017,lublin,floor_1,62971798,secondary,500000,10000,2022-04-10 14:50:06,2022-07-28 15:44:24,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-50-m-2-pokoje-ul-krysztalowa-ID4gdQa.html
+384,59.03,1960,lublin,floor_2,62825554,secondary,499000,8453,2022-02-28 21:01:44,2022-08-04 15:50:58,2,tenement,https://www.otodom.pl/pl/oferta/2-duze-pokoje-na-ul-lipowej-ID4fBNo.html
+385,64,1981,lublin,floor_2,62566818,secondary,486000,7594,2021-12-08 21:10:09,2022-07-19 13:19:24,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-64m2-po-remoncie-czechow-2-pietro-ID4evue.html
+386,80.39,2001,lublin,floor_2,63165696,secondary,685000,8521,2022-06-06 11:52:12,2022-08-06 14:39:54,4,block,https://www.otodom.pl/pl/oferta/rozklad-4-pokoje-drugie-pietro-garaz-ID4h2hy.html
+387,69.99,2021,lublin,floor_2,62161307,primary,525000,7501,2021-08-11 11:34:36,2022-07-27 19:00:38,4,block,https://www.otodom.pl/pl/oferta/osiedle-nowy-standard-komfortowe-mieszkanie-b7-13-ID4cOZJ.html
+388,69.99,2021,lublin,floor_1,62161158,primary,525000,7501,2021-08-11 11:06:21,2022-07-25 19:01:07,4,block,https://www.otodom.pl/pl/oferta/osiedle-nowy-standard-wygodne-mieszkanie-b7-7-ID4cOXk.html
+389,,,,,,,,,,,,,
+390,76.06,2023,lublin,floor_2,61442222,primary,501996,6600,2021-01-28 09:41:55,2022-07-22 14:30:18,3,block,https://www.otodom.pl/pl/oferta/diamentowe-tarasy-ul-wolinskiego-budynek-b-m54-ID49NWA.html
+391,38,1968,lublin,floor_1,63223661,secondary,345000,9079,2022-06-22 18:14:21,2022-08-01 13:15:16,2,block,https://www.otodom.pl/pl/oferta/lsm-2-pokoje-balkon-1-pietro-blisko-uczelnie-ID4hhmt.html
+392,69.99,2021,lublin,floor_1,62161186,primary,525000,7501,2021-08-11 11:12:35,2022-07-26 19:00:55,4,block,https://www.otodom.pl/pl/oferta/osiedle-nowy-standard-komfortowe-mieszkanie-b7-8-ID4cOXM.html
+393,82.2,1994,lublin,ground_floor,62631004,secondary,645000,7847,2022-01-05 11:35:58,2022-08-04 20:52:10,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-4-pok-konstantynow-ul-ulanow-ID4eNbu.html
+394,35.3,1989,lublin,floor_3,62695514,secondary,360000,10198,2022-01-24 20:42:28,2022-07-30 22:00:08,1,block,https://www.otodom.pl/pl/oferta/kawalerka-35-3m2-na-czubach-blisko-uczelni-ID4f3XY.html
+395,,,,,,,,,,,,,
+396,38,1978,lublin,ground_floor,63117122,secondary,319000,8395,2022-05-23 19:45:09,2022-08-05 22:11:43,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-38-m-lublin-ID4gPE6.html
+397,,,,,,,,,,,,,
+398,36.08,2022,lublin,floor_6,63311402,primary,342760,9500,2022-07-18 08:51:02,2022-08-02 08:51:43,2,block,https://www.otodom.pl/pl/oferta/apartament-2-pokoje-stan-deweloperski-naleczowska-ID4hEbE.html
+399,,,,,,,,,,,,,
+400,76.5,1994,lublin,floor_2,63360424,secondary,569000,7438,2022-08-01 23:49:59,2022-08-02 00:33:09,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-4-pokojowe-lublin-czuby-ID4hQVk.html
+401,67,2016,lublin,floor_2,63360041,secondary,505000,7537,2022-08-01 20:52:43,2022-08-06 10:32:59,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokojowe-bez-posrednikow-67m-ID4hQQ9.html
+402,,,,,,,,,,,,,
+403,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+404,32.2,2008,lublin,floor_1,63359194,secondary,315000,9783,2022-08-01 16:35:23,2022-08-08 12:59:02,1,block,https://www.otodom.pl/pl/oferta/atrakcyjna-kawalerka-bardzo-dobrej-lokalizacji-ID4hQCu.html
+405,49.6,2012,lublin,floor_7,62980568,secondary,371000,7480,2022-04-12 21:31:12,2022-08-01 16:39:05,2,block,https://www.otodom.pl/pl/oferta/sprzedam-mieszk-50m2-razem-z-miejscem-parkingowym-ID4gg7C.html
+406,,,,,,,,,,,,,
+407,45.64,1970,lublin,floor_10,62955413,secondary,309000,6770,2022-04-05 16:33:42,2022-08-03 17:32:11,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-blisko-centrum-miasta-ID4g9zT.html
+408,52,1970,lublin,floor_4,62944656,secondary,419000,8058,2022-04-02 09:36:48,2022-08-01 15:47:36,2,tenement,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-blisko-umcs-kul-up-ID4g6Mo.html
+409,,,,,,,,,,,,,
+410,49.92,2024,lublin,floor_2,63154828,primary,569000,11398,2022-06-02 14:17:32,2022-08-07 19:01:11,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-w-centrum-prusa-twins-m7-ID4gZsg.html
+411,,,,,,,,,,,,,
+412,33,1978,lublin,floor_10,63193829,secondary,309000,9364,2022-06-13 15:52:11,2022-08-01 13:13:07,1,block,https://www.otodom.pl/pl/oferta/1-pokojowe-po-remoncie-winda-wrotkow-ID4h9Bj.html
+413,70.33,1993,lublin,floor_1,63308361,secondary,470000,6683,2022-07-16 14:55:01,2022-08-01 13:09:39,3,block,https://www.otodom.pl/pl/oferta/3-jasne-pokoje-super-uklad-do-dowolnej-aranzacji-ID4hDoB.html
+414,,,,,,,,,,,,,
+415,27.46,2022,lublin,floor_5,63303032,secondary,346000,12600,2022-07-14 19:55:20,2022-08-01 16:09:20,1,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-kawalerka-ul-kwarcowa-lublin-ID4hC0E.html
+416,100,1930,lublin,floor_1,63357520,secondary,400000,4000,2022-08-01 12:01:06,2022-08-04 18:33:10,5,tenement,https://www.otodom.pl/pl/oferta/mieszkanie-2-poziomowe-lub-2-mieszkania-ID4hQbu.html
+417,26,1921,lublin,floor_1,63311583,secondary,139000,5346,2022-07-18 09:56:12,2022-08-07 18:55:49,1,tenement,https://www.otodom.pl/pl/oferta/1-pokojowe-1-pietro-balkon-udzialy-ID4hEez.html
+418,47.1,1981,lublin,floor_3,63304220,secondary,375000,7962,2022-07-15 10:55:36,2022-08-07 18:55:48,2,block,https://www.otodom.pl/pl/oferta/2-pokojowe-blisko-um-balkon-winda-ID4hCjO.html
+419,,,,,,,,,,,,,
+420,,,,,,,,,,,,,
+421,,,,,,,,,,,,,
+422,56,1970,lublin,floor_4,63309736,secondary,510000,9107,2022-07-17 11:03:28,2022-08-01 11:06:32,3,block,https://www.otodom.pl/pl/oferta/lsm-os-piastowskie-56m2-3pok-super-inwestycja-ID4hDKM.html
+423,44.02,2022,lublin,floor_2,63356405,primary,303738,6900,2022-08-01 10:01:07,2022-08-08 10:36:41,2,apartment,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-wsch-zach-2p-3-bez-prowizj-ID4hPTw.html
+424,,,,,,,,,,,,,
+425,72,1995,lublin,floor_1,60679109,secondary,459000,6375,2020-07-02 20:45:44,2022-08-01 09:36:38,4,block,https://www.otodom.pl/pl/oferta/sloneczne-mieszkanie-na-wrotkowie-72m2-4pokoje-ID46Bpj.html
+426,47.48,1975,lublin,floor_4,62967909,secondary,399900,8422,2022-04-08 16:00:55,2022-08-06 17:01:00,3,block,https://www.otodom.pl/pl/oferta/sloneczne-3-pokojowe-mieszkanie-wokol-zielen-ID4gcPr.html
+427,62.8,1989,lublin,floor_7,62864257,secondary,485000,7723,2022-03-10 20:25:20,2022-08-07 21:30:22,3,block,https://www.otodom.pl/pl/oferta/3-pokojoweul-herbowa-4-min-od-leclerca-ID4fLRD.html
+428,174,1980,lublin,floor_1,62870822,secondary,489000,2810,2022-03-12 23:18:21,2022-08-07 19:19:53,3,house,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokojowe-bezczynszowe-ogrodek-i-garaz-ID4fNzv.html
+429,,,,,,,,,,,,,
+430,88,1994,lublin,floor_4,63113658,secondary,703000,7989,2022-05-23 10:17:26,2022-08-08 10:10:44,5,block,https://www.otodom.pl/pl/oferta/duze-mieszkanie-w-swietnej-lokalizacji-ID4gOKe.html
+431,,,,,,,,,,,,,
+432,,,,,,,,,,,,,
+433,33.2,2010,lublin,ground_floor,62844215,secondary,339000,10211,2022-03-04 23:35:10,2022-08-03 14:05:17,1,block,https://www.otodom.pl/pl/oferta/jaspisowa-4-duzy-balkon-niski-czynsz-ID4fGEn.html
+434,,,,,,,,,,,,,
+435,61.5,1991,lublin,floor_2,63070742,secondary,469000,7626,2022-05-11 14:50:59,2022-08-03 10:01:47,3,block,https://www.otodom.pl/pl/oferta/lublin-wrotkow-ul-medalionow-3-pokoje-ID4gDA2.html
+436,20.52,2023,lublin,floor_3,63102786,primary,259917,12667,2022-05-19 13:12:25,2022-08-05 19:01:05,1,apartment,https://www.otodom.pl/pl/oferta/zeus-apartments-mini-apartament-75-pod-klucz-ID4gLUS.html
+437,52.3,1900,lublin,floor_2,63088038,secondary,370000,7075,2022-05-16 15:02:38,2022-08-01 16:09:16,2,tenement,https://www.otodom.pl/pl/oferta/klimatyczne-mieszkanie-w-kamienicy-srodmiescie-ID4gI50.html
+438,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+439,47.5,1980,lublin,floor_1,63355542,secondary,435000,9158,2022-07-31 20:31:57,2022-08-01 09:46:36,3,block,https://www.otodom.pl/pl/oferta/komfortowe-3-pokojowe-mieszkanie-na-1-pietrze-ID4hPFA.html
+440,,,,,,,,,,,,,
+441,72,1998,lublin,floor_2,63310148,secondary,669000,9292,2022-07-17 15:21:06,2022-08-07 15:33:32,3,block,https://www.otodom.pl/pl/oferta/blisko-miasteczka-akademickiego-osiedle-ogrodzone-ID4hDRq.html
+442,57,1976,lublin,floor_10,63283918,secondary,429000,7526,2022-07-09 22:15:04,2022-07-31 18:44:26,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-czechow-blisko-um-ID4hx2m.html
+443,63.2,1981,lublin,floor_2,63310776,secondary,486000,7690,2022-07-17 19:44:14,2022-08-07 15:33:31,3,block,https://www.otodom.pl/pl/oferta/trzypokojowe-z-winda-na-czechowie-po-remoncie-ID4hE1y.html
+444,81.37,1998,lublin,floor_3,63332849,secondary,535000,6575,2022-07-24 20:50:11,2022-08-07 15:30:17,4,block,https://www.otodom.pl/pl/oferta/czuby-poreba-4-pokoje-garderoba-garaz-ID4hJLz.html
+445,55.79,2017,lublin,floor_3,63308556,secondary,619000,11095,2022-07-16 17:10:18,2022-07-31 17:13:52,3,block,https://www.otodom.pl/pl/oferta/piekne-mieszkanie-3-pokoje-klimatyzacja-zabudowa-ID4hDrK.html
+446,49,1976,lublin,floor_3,63351057,secondary,385000,7857,2022-07-29 13:42:48,2022-07-31 16:26:38,3,block,https://www.otodom.pl/pl/oferta/3-oddzielne-pokoje-blisko-centrum-ID4hOwf.html
+447,,,,,,,,,,,,,
+448,70,1993,lublin,ground_floor,63353318,secondary,539000,7700,2022-07-30 09:55:12,2022-08-02 11:55:41,3,block,https://www.otodom.pl/pl/oferta/3-oddzielne-pokoje-wysoki-parter-czuby-ID4hP5I.html
+449,43,2008,lublin,floor_1,63354692,secondary,380000,8837,2022-07-31 12:34:51,2022-08-05 12:07:20,2,block,https://www.otodom.pl/pl/oferta/przytulne-2-pokoje-43m2-ul-wapowskiego-ID4hPrS.html
+450,55.65,2023,lublin,floor_3,62451976,primary,450765,8100,2021-11-03 09:50:51,2022-07-31 12:00:14,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-z-mozliwoscia-wyodrebnienia-kuchni-ID4e2BV.html
+451,,,,,,,,,,,,,
+452,,,,,,,,,,,,,
+453,,,,,,,,,,,,,
+454,,,,,,,,,,,,,
+455,43.41,2022,lublin,ground_floor,63158118,primary,360303,8300,2022-06-03 11:41:07,2022-08-02 12:01:08,2,block,https://www.otodom.pl/pl/oferta/nowe-2-pokoje-43m2-ogrodek-weglinek-2022r-ID4h0jk.html
+456,53.8,1988,lublin,floor_3,62955808,secondary,460000,8550,2022-04-05 18:04:13,2022-08-01 11:01:18,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-na-daszynskiego-53-8m2-oferta-prywatna-ID4g9Gg.html
+457,48.1,1989,lublin,ground_floor,63011594,secondary,415000,8628,2022-04-22 18:51:22,2022-07-21 19:45:53,3,block,https://www.otodom.pl/pl/oferta/wysoki-parter-3-pokoje-48m2-czuby-ID4goc2.html
+458,,,,,,,,,,,,,
+459,68.7,2008,lublin,floor_3,63056652,secondary,585000,8515,2022-05-07 22:28:55,2022-08-06 10:37:30,3,block,https://www.otodom.pl/pl/oferta/83m-2-poziomowe-19m-taras-6m-balkon-16m-garaz-ID4gzUM.html
+460,,,,,,,,,,,,,
+461,35.1,1968,lublin,floor_4,63160508,secondary,329000,9373,2022-06-03 18:45:13,2022-08-05 22:11:43,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-blisko-srodmiescia-po-remoncie-ID4h0WS.html
+462,57.9,1975,lublin,floor_4,62665700,secondary,380000,6563,2022-01-16 13:32:23,2022-08-06 15:00:38,3,block,https://www.otodom.pl/pl/oferta/trzypokojowe-mieszkanie-58m2-kalinowszczyzna-ID4eVd6.html
+463,,,,,,,,,,,,,
+464,113.08,2022,lublin,floor_higher_10,63252880,primary,1300000,11496,2022-06-30 22:35:13,2022-08-03 14:19:02,5,apartment,https://www.otodom.pl/pl/oferta/apartament-o-pow-113-08-m2-ul-polnocna-dwie-wieze-ID4hoXK.html
+465,,,,,,,,,,,,,
+466,,,,,,,,,,,,,
+467,46.9,1965,lublin,floor_1,63354122,secondary,410000,8742,2022-07-30 19:15:52,2022-08-07 14:56:13,2,block,https://www.otodom.pl/pl/oferta/optymalny-metraz-osiedle-zamkniete-centrum-ID4hPiG.html
+468,46.9,1965,lublin,floor_1,63354122,secondary,410000,8742,2022-07-30 19:15:52,2022-08-07 14:56:13,2,block,https://www.otodom.pl/pl/oferta/optymalny-metraz-osiedle-zamkniete-centrum-ID4hPiG.html
+469,49.6,1961,lublin,floor_1,63354091,secondary,420000,8468,2022-07-30 18:48:44,2022-08-07 15:23:59,2,tenement,https://www.otodom.pl/pl/oferta/dwupokojowe-wygodne-mieszkanie-w-centrum-miasta-ID4hPib.html
+470,60.78,1990,lublin,ground_floor,63354075,secondary,525000,8638,2022-07-30 18:39:36,2022-08-07 15:24:15,3,block,https://www.otodom.pl/pl/oferta/komfortowe-3-pokoje-na-czubach-ID4hPhW.html
+471,48.2,1981,lublin,floor_5,63305538,secondary,400000,8299,2022-07-15 14:15:26,2022-07-30 14:36:40,3,block,https://www.otodom.pl/pl/oferta/bliski-czechow-paganiniego-9-ID4hCF4.html
+472,54.5,2000,lublin,floor_2,62695723,secondary,479000,8789,2022-01-24 22:05:11,2022-07-30 14:18:01,2,block,https://www.otodom.pl/pl/oferta/slawinek-przestronne-2-pokojowe-mieszkanie-ID4f41l.html
+473,48,1985,lublin,floor_5,63330185,secondary,469000,9771,2022-07-22 18:15:41,2022-07-30 14:20:57,3,block,https://www.otodom.pl/pl/oferta/nowoczesne-3-pokoje-przy-politechnice-lubelskiej-ID4hJ4B.html
+474,27,1979,lublin,floor_9,63082554,secondary,289000,10704,2022-05-14 11:55:23,2022-07-30 14:14:57,1,block,https://www.otodom.pl/pl/oferta/lsm-kawalerka-z-pieknym-widokiem-ID4gGEy.html
+475,,,,,,,,,,,,,
+476,,,,,,,,,,,,,
+477,,,,,,,,,,,,,
+478,,,,,,,,,,,,,
+479,35.1,1970,lublin,floor_4,63304055,secondary,329000,9373,2022-07-15 10:23:45,2022-07-30 10:24:35,2,block,https://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-przy-ul-przyjazni-ID4hCh9.html
+480,,,,,,,,,,,,,
+481,,,,,,,,,,,,,
+482,52.97,2024,lublin,floor_2,63154345,primary,604000,11403,2022-06-02 13:04:17,2022-08-02 12:15:56,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-w-centrum-prusa-twins-m12-ID4gZkt.html
+483,33.53,2024,lublin,floor_2,63154824,primary,424500,12660,2022-06-02 14:16:00,2022-08-06 19:01:16,1,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-w-centrum-prusa-twins-m9-ID4gZsc.html
+484,,,,,,,,,,,,,
+485,69.5,2010,lublin,floor_3,63035327,secondary,599000,8619,2022-04-29 16:12:03,2022-07-26 12:29:08,3,block,https://www.otodom.pl/pl/oferta/idealne-dla-rodziny-gotowe-3pokojowe-mieszkanie-ID4gumP.html
+486,67,2007,lublin,floor_3,62964716,secondary,520000,7761,2022-04-07 20:15:06,2022-08-05 21:15:19,3,block,https://www.otodom.pl/pl/oferta/trojstronne-ok-80-metrow-lokum-botanik-slawin-ID4gbZV.html
+487,38,2008,lublin,ground_floor,63307911,secondary,350000,9211,2022-07-16 10:02:34,2022-07-30 09:34:42,2,block,https://www.otodom.pl/pl/oferta/kawalerka-na-parterze-duzy-balkon-sloneczny-dom-ID4hDhl.html
+488,,,,,,,,,,,,,
+489,,,,,,,,,,,,,
+490,41.18,2021,lublin,floor_3,62750773,secondary,442000,10733,2022-02-09 10:33:37,2022-08-08 17:41:56,2,block,https://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-na-weglinie-ID4filf.html
+491,54.55,2021,lublin,floor_4,62868921,secondary,600000,10999,2022-03-12 00:18:12,2022-08-02 19:07:03,3,block,https://www.otodom.pl/pl/oferta/lublin-ul-startowa-3p-54-55-mkw-ID4fN4R.html
+492,,,,,,,,,,,,,
+493,,,,,,,,,,,,,
+494,,,,,,,,,,,,,
+495,47.6,1992,lublin,floor_4,63352788,secondary,364000,7647,2022-07-29 20:51:04,2022-07-29 21:33:31,2,block,https://www.otodom.pl/pl/oferta/lublin-czuby-2-pokoje-ul-bursztynowa-przy-wawozie-ID4hOXa.html
+496,88.1,1930,lublin,floor_4,63191320,secondary,619000,7026,2022-06-13 09:53:21,2022-07-29 18:46:00,4,block,https://www.otodom.pl/pl/oferta/przepiekny-apartament-czwarte-pietro-probostwo-ID4h8VQ.html
+497,84,1980,lublin,floor_4,61471004,secondary,510000,6071,2021-02-04 11:32:08,2022-07-29 18:48:09,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-dla-rodziny-84-m2-4-pokoje-czechow-ID49WpO.html
+498,,,,,,,,,,,,,
+499,24,1980,lublin,ground_floor,63346791,secondary,259000,10792,2022-07-28 12:13:52,2022-07-29 16:44:23,1,block,https://www.otodom.pl/pl/oferta/kawalerka-lsm-ID4hNor.html
+500,63.3,1987,lublin,floor_2,63263509,secondary,495000,7820,2022-07-04 18:51:03,2022-08-05 13:42:56,3,block,https://www.otodom.pl/pl/oferta/czechow-gorczanska-3-pokoje-63m2-2-pietro-ID4hrJb.html
+501,,,,,,,,,,,,,
+502,,,,,,,,,,,,,
+503,60,2019,lublin,floor_5,63193149,secondary,845000,14083,2022-06-13 14:19:23,2022-07-29 14:33:21,3,block,https://www.otodom.pl/pl/oferta/unikatowy-apartament-z-tarasem-widokowym-60-m-film-ID4h9ql.html
+504,,,,,,,,,,,,,
+505,45.69,1970,lublin,floor_1,63303271,secondary,455000,9958,2022-07-14 21:55:19,2022-08-07 18:55:45,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-1-pietro-super-aranzacja-niski-blok-ID4hC4w.html
+506,,,,,,,,,,,,,
+507,,,,,,,,,,,,,
+508,82.91,2017,lublin,floor_3,63115737,secondary,860000,10373,2022-05-23 14:52:34,2022-07-29 13:11:21,3,block,https://www.otodom.pl/pl/oferta/piekny-apartament-na-czubach-ID4gPhL.html
+509,57.53,2015,lublin,floor_4,63297510,secondary,575000,9995,2022-07-13 14:55:32,2022-08-07 09:20:51,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-wysoki-standard-winda-super-uklad-ID4hAzA.html
+510,61.2,1975,lublin,floor_10,63350683,secondary,459000,7500,2022-07-29 12:53:39,2022-08-05 14:33:31,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-rozklad-ciekawy-design-widoki-winda-ID4hOpd.html
+511,36.77,2024,lublin,floor_1,62823030,primary,323576,8800,2022-02-28 13:07:05,2022-08-02 19:01:34,2,apartment,https://www.otodom.pl/pl/oferta/green-park-funkcjonalny-apartament-a2-8-ID4fB8G.html
+512,60.4,1996,lublin,floor_2,63053191,secondary,487000,8063,2022-05-06 14:52:06,2022-08-07 18:55:36,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-rozklad-kameralne-duzy-balkon-ID4gz0X.html
+513,62.5,1992,lublin,floor_3,63349704,secondary,490000,7840,2022-07-29 09:55:21,2022-07-29 12:40:28,3,block,https://www.otodom.pl/pl/oferta/trzy-pokoje-rozkladowe-czuby-ID4hO9q.html
+514,44.38,1968,lublin,floor_1,63349701,secondary,315000,7098,2022-07-29 09:55:11,2022-07-29 12:41:10,2,block,https://www.otodom.pl/pl/oferta/2-pokojowe-oddzielna-kuchnia-tatary-ID4hO9n.html
+515,48.3,1971,lublin,floor_8,63346101,secondary,419000,8675,2022-07-28 09:55:19,2022-08-07 18:55:52,3,block,https://www.otodom.pl/pl/oferta/lsm-3-pokoje-rozklad-winda-inwestycyjne-ID4hNdj.html
+516,66.54,2022,lublin,floor_4,63245391,primary,599000,9002,2022-06-29 12:16:21,2022-08-02 11:47:22,3,apartment,https://www.otodom.pl/pl/oferta/czuby-os-jutrzenki-3-pokoje-deweloperskie-winda-ID4hn0X.html
+517,50,2006,lublin,floor_1,63301016,secondary,499000,9980,2022-07-14 13:16:12,2022-07-29 11:43:00,3,block,https://www.otodom.pl/pl/oferta/wysoki-standard-czuby-3-pokoje-widok-na-las-ID4hBu8.html
+518,,,,,,,,,,,,,
+519,58.8,2022,lublin,ground_floor,63350130,primary,646800,11000,2022-07-29 11:06:26,2022-07-29 12:33:20,3,apartment,https://www.otodom.pl/pl/oferta/nowe-biuro-mieszkanie-kwarcowa-lublin-ID4hOgi.html
+520,89.1,1981,lublin,ground_floor,63304250,secondary,670000,7520,2022-07-15 11:02:27,2022-07-29 11:04:15,4,block,https://www.otodom.pl/pl/oferta/4-7-pokoi-czuby-skarpa-ID4hCki.html
+521,,,,,,,,,,,,,
+522,53.1,1995,lublin,ground_floor,63295912,secondary,389000,7326,2022-07-13 10:52:47,2022-07-29 10:32:43,2,block,https://www.otodom.pl/pl/oferta/swietna-lokalizacja-bazylianowka-2pokoje-ID4hA9O.html
+523,,,,,,,,,,,,,
+524,49.44,2010,lublin,floor_1,63194342,secondary,425000,8596,2022-06-13 17:11:18,2022-08-05 12:05:25,2,block,https://www.otodom.pl/pl/oferta/ponikwoda-dozynkowa-2010-pietro-1-ID4h9JA.html
+525,,,,,,,,,,,,,
+526,85,1978,lublin,floor_3,63022329,secondary,630000,7412,2022-04-26 15:50:58,2022-08-05 09:25:10,5,block,https://www.otodom.pl/pl/oferta/mieszkanie-idealne-dla-duzej-rodziny-ID4gqZb.html
+527,56.68,2005,lublin,floor_3,62997066,secondary,469000,8275,2022-04-19 12:32:06,2022-07-25 16:15:33,3,block,https://www.otodom.pl/pl/oferta/trzypokojowe-mieszkanie-na-ul-szafirowej-ID4gkpI.html
+528,84,1999,lublin,floor_2,63096451,secondary,655000,7798,2022-05-18 00:54:53,2022-07-25 14:41:07,4,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-blisko-lasu-ID4gKgH.html
+529,64.7,1961,lublin,floor_2,63248177,secondary,515000,7960,2022-06-29 21:34:27,2022-07-29 21:37:45,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-64-7m2-loggia-piwnica-ID4hnJT.html
+530,72,2011,lublin,ground_floor,62660687,secondary,709000,9847,2022-01-14 13:42:00,2022-08-08 17:52:43,4,block,https://www.otodom.pl/pl/oferta/komfortowe-mieszkanie-z-duzym-tarasem-lsm-ID4eUUf.html
+531,57.31,2010,lublin,floor_2,62831600,secondary,475000,8288,2022-03-02 11:31:15,2022-08-05 15:43:35,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-54m2-wrotkow-pilna-sprzedaz-ID4fDmU.html
+532,,,,,,,,,,,,,
+533,50.89,1972,lublin,floor_4,63145428,secondary,360000,7074,2022-05-31 13:52:54,2022-07-30 14:16:48,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-winda-piekny-widok-inwestycyjne-ID4gX0E.html
+534,34.7,2008,lublin,floor_3,62862497,secondary,339000,9769,2022-03-10 14:11:38,2022-08-07 15:15:43,1,block,https://www.otodom.pl/pl/oferta/fantastyczna-kawalerka-na-zamknietym-osiedlu-ID4fLpf.html
+535,57.7,1977,lublin,floor_3,63247368,secondary,495000,8579,2022-06-29 17:11:39,2022-08-05 13:42:54,4,block,https://www.otodom.pl/pl/oferta/czechow-smyczkowa-4-pokoje-58m2-od-zaraz-ID4hnvQ.html
+536,,,,,,,,,,,,,
+537,39.91,2023,lublin,floor_3,62459235,primary,351208,8800,2021-11-04 17:20:37,2022-08-01 19:45:49,2,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-2-pokoje-40m2-czuby-2023r-ID4e4w1.html
+538,49.92,2022,lublin,floor_1,61868077,primary,404352,8100,2021-05-19 12:51:09,2022-07-15 09:00:55,3,block,https://www.otodom.pl/pl/oferta/nowe-mieszkanie-3-pokoje-50m2-weglinek-2022r-ID4bAId.html
+539,,,,,,,,,,,,,
+540,,,,,,,,,,,,,
+541,41.17,2021,lublin,floor_2,62570348,primary,366413,8900,2021-12-09 22:12:12,2022-08-07 00:01:41,2,apartment,https://www.otodom.pl/pl/oferta/mieszkania-czechow-od-6900zl-m2-ID4expa.html
+542,61.37,1970,lublin,floor_5,62862053,secondary,640000,10429,2022-03-10 13:11:15,2022-08-07 14:15:58,3,block,https://www.otodom.pl/pl/oferta/piekne-mieszkanie-po-generalnym-remoncie-na-lsm-ID4fLi5.html
+543,,,,,,,,,,,,,
+544,,,,,,,,,,,,,
+545,,,,,,,,,,,,,
+546,75.23,2023,lublin,ground_floor,63085789,primary,703400,9350,2022-05-16 10:05:27,2022-07-18 10:54:24,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-4-pokojowe-z-ogrodkiem-e-4-ID4gHuJ.html
+547,65.7,1995,lublin,floor_3,63142395,secondary,410000,6240,2022-05-30 17:35:26,2022-07-29 18:03:37,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-lublin-konstantynow-4-pokoje-ID4gVdJ.html
+548,29.79,2022,lublin,floor_1,63052066,primary,268110,9000,2022-05-06 12:01:02,2022-08-04 13:30:41,1,block,https://www.otodom.pl/pl/oferta/kawalerka-oddzielna-kuchnia-30m2-czuby-2022r-ID4gyIO.html
+549,50,2013,lublin,floor_3,63347465,secondary,510000,10200,2022-07-28 14:09:43,2022-07-29 08:33:05,2,block,https://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-50m2-2-pok-dunikowskiego-ID4hNzj.html
+550,62,1985,lublin,floor_3,63345844,secondary,465000,7500,2022-07-28 07:45:06,2022-08-03 06:45:10,3,block,https://www.otodom.pl/pl/oferta/czechow-62-mkw-3-pokoje-dobry-stan-ID4hN9a.html
+551,46.94,2023,lublin,floor_3,62704916,primary,347356,7400,2022-01-27 10:52:59,2022-07-31 19:01:24,2,block,https://www.otodom.pl/pl/oferta/nowa-kreta-b1-mieszkanie-lm-48-ID4f6pC.html
+552,,,,,,,,,,,,,
+553,36.5,1965,lublin,floor_4,63348970,secondary,370000,10137,2022-07-28 20:45:16,2022-07-28 21:37:32,1,block,https://www.otodom.pl/pl/oferta/kawalerka-w-srodmiesciu-ID4hNXA.html
+554,66.8,1995,lublin,floor_2,63349013,secondary,649000,9716,2022-07-28 21:10:08,2022-08-07 21:20:19,3,block,https://www.otodom.pl/pl/oferta/piekne-mieszkanie-na-zielonym-slawinie-ID4hNYh.html
+555,,,,,,,,,,,,,
+556,,,,,,,,,,,,,
+557,57.91,2016,lublin,floor_2,63348873,secondary,620000,10706,2022-07-28 19:47:45,2022-07-29 10:43:54,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-felin-ID4hNV1.html
+558,,,,,,,,,,,,,
+559,48.98,1980,lublin,floor_4,63301995,secondary,409000,8350,2022-07-14 15:35:30,2022-08-04 12:17:24,3,block,https://www.otodom.pl/pl/oferta/3-pokoje-wrotkow-po-remoncie-ID4hBJW.html
+560,,,,,,,,,,,,,
+561,,,,,,,,,,,,,
+562,38,1968,lublin,floor_4,63195435,secondary,375000,9868,2022-06-13 23:05:08,2022-07-28 13:25:19,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-z-balkonem-blisko-um-ID4ha1d.html
+563,70,2012,lublin,ground_floor,63188078,secondary,520000,7429,2022-06-11 10:35:16,2022-07-28 13:24:31,4,block,https://www.otodom.pl/pl/oferta/przestronne-4-pokoje-os-botanik-ID4h86y.html
+564,36,1982,lublin,floor_7,63048552,secondary,309000,8583,2022-05-05 13:11:42,2022-08-03 14:15:49,1,block,https://www.otodom.pl/pl/oferta/kawalerka-z-duzym-balkonem-czechow-ID4gxO8.html
+565,,,,,,,,,,,,,
+566,33.2,1981,lublin,ground_floor,63242168,secondary,339000,10211,2022-06-28 14:55:50,2022-08-08 13:53:51,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-nowoczesne-gotowe-blisko-um-balkon-ID4hmaY.html
+567,41.6,1965,lublin,floor_2,63242161,secondary,388000,9327,2022-06-28 14:55:31,2022-07-29 13:06:49,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-nowoczesne-swieze-balkon-rozklad-ID4hmaR.html
+568,,,,,,,,,,,,,
+569,62,1976,lublin,floor_3,63227564,secondary,499000,8048,2022-06-23 17:44:52,2022-07-25 16:15:37,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-po-remoncie-blisko-centrum-ID4hinq.html
+570,,,,,,,,,,,,,
+571,53.34,2010,lublin,floor_1,63146397,secondary,448000,8399,2022-05-31 14:43:29,2022-08-05 22:11:43,2,block,https://www.otodom.pl/pl/oferta/sloneczne-dwupokojowe-mieszkanie-na-ponikwodzie-ID4gXgh.html
+572,,,,,,,,,,,,,
+573,,,,,,,,,,,,,
+574,69,2000,lublin,floor_1,63243623,secondary,575000,8333,2022-06-28 21:02:21,2022-08-07 21:05:37,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-4-pokoje-69m-1-pietro-z-garazem-ID4hmyr.html
+575,,,,,,,,,,,,,
+576,48.07,1980,lublin,floor_3,63025973,secondary,349000,7260,2022-04-27 14:21:07,2022-08-04 15:51:01,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-z-widokiem-na-piekna-zielen-ID4grWX.html
+577,59.2,1989,lublin,floor_1,63225133,secondary,459000,7753,2022-06-23 10:15:27,2022-08-04 09:35:36,3,block,https://www.otodom.pl/pl/oferta/czuby-ul-szafirowa-3-pokoje-na-i-pietrze-ID4hhKd.html
+578,,,,,,,,,,,,,
+579,67.5,2022,lublin,floor_5,62931002,primary,599000,8874,2022-03-29 17:38:36,2022-08-02 17:13:46,3,apartment,https://www.otodom.pl/pl/oferta/usmiechnij-sie-apartament-3-pok-orkana-residence-ID4g3ea.html
+580,82.78,1997,lublin,floor_3,62955406,secondary,535000,6463,2022-04-05 16:33:25,2022-08-03 17:32:07,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-dwupoziomowe-4-pokoje-czuby-ID4g9zM.html
+581,64.38,2004,lublin,floor_3,63008482,secondary,515000,7999,2022-04-22 05:11:20,2022-08-02 15:28:29,2,block,https://www.otodom.pl/pl/oferta/mieszkanie-z-ogromnym-tarasem-z-widokiem-na-wawoz-ID4gnnQ.html
+582,33.58,2011,lublin,ground_floor,63143642,secondary,355000,10572,2022-05-31 07:52:07,2022-07-30 08:15:11,2,block,https://www.otodom.pl/pl/oferta/2-pokoje-w-nowym-bloku-na-dziesiatej-ID4gVxQ.html
+583,,,,,,,,,,,,,
+584,43.62,2023,lublin,floor_2,62632925,primary,383856,8800,2022-01-05 15:55:51,2022-08-04 12:00:40,2,block,https://www.otodom.pl/pl/oferta/osiedle-jemioluszki-budynek-d-mieszkanie-m14-ID4eNGt.html
+585,56.15,2023,lublin,floor_1,62632360,primary,482890,8600,2022-01-05 14:59:36,2022-08-04 12:00:39,3,block,https://www.otodom.pl/pl/oferta/osiedle-jemioluszki-budynek-ab-mieszkanie-m40-ID4eNxm.html
+586,,,,,,,,,,,,,
+587,51.18,2023,lublin,floor_3,62632642,primary,440148,8600,2022-01-05 15:22:30,2022-08-04 12:00:40,3,block,https://www.otodom.pl/pl/oferta/osiedle-jemioluszki-budynek-c-mieszkanie-m27-ID4eNBU.html
+588,,,,,,,,,,,,,
+589,,,,,,,,,,,,,
+590,60.6,1985,lublin,floor_4,62944659,secondary,399000,6584,2022-04-02 09:37:12,2022-08-03 12:37:25,3,block,https://www.otodom.pl/pl/oferta/czuby-3-pokoje-piekna-zielona-okolica-ID4g6Mr.html
+591,52,1954,lublin,floor_2,63153193,secondary,369000,7096,2022-06-02 09:53:09,2022-08-01 10:15:30,2,block,https://www.otodom.pl/pl/oferta/dwa-pokoje-drugie-pietro-bronowice-ID4gZ1T.html
+592,42.91,2022,lublin,floor_4,63196801,primary,359000,8366,2022-06-14 12:16:08,2022-08-02 17:09:40,2,block,https://www.otodom.pl/pl/oferta/2-pok-42-91m2-stan-deweloperski-ID4hanf.html
+593,65,2010,lublin,floor_4,63299353,secondary,795000,12231,2022-07-14 00:00:41,2022-08-05 00:04:54,3,apartment,https://www.otodom.pl/pl/oferta/mieszkanie-65-m2-lublin-czuby-wisniowy-sad-ID4hB3j.html
+594,65,2012,lublin,floor_2,63345481,secondary,584000,8985,2022-07-27 22:20:13,2022-07-27 22:24:21,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-65-m2-3-pokoje-ul-dunikowskiego-ID4hN3j.html
+595,57,1969,lublin,floor_4,63345390,secondary,390000,6842,2022-07-27 21:35:17,2022-07-27 21:45:19,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-kalinowszczyzna-ul-dembowskiego-ID4hN1Q.html
+596,73.5,2010,lublin,floor_5,63294901,secondary,795000,10816,2022-07-12 21:15:59,2022-07-27 21:17:42,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-73-5-m2-3-pokoje-garderoba-ID4hzTw.html
+597,,,,,,,,,,,,,
+598,54.55,2022,lublin,floor_4,63344644,secondary,600000,10999,2022-07-27 16:45:51,2022-08-04 11:31:56,3,apartment,https://www.otodom.pl/pl/oferta/nowe-3-pokoje-gotowe-do-wprowadzenia-ID4hMPO.html
+599,50,2022,lublin,floor_5,63344069,secondary,498000,9960,2022-07-27 15:27:41,2022-08-04 11:32:21,3,apartment,https://www.otodom.pl/pl/oferta/ladne-i-nowe-3-pokoje-na-weglinku-ID4hMGx.html
+600,47,2022,lublin,floor_3,63341850,secondary,465000,9894,2022-07-27 10:25:33,2022-08-05 22:11:46,3,block,https://www.otodom.pl/pl/oferta/3-nowe-pokoje-felin-ID4hM6K.html
+601,,,,,,,,,,,,,
+602,48,2022,lublin,floor_1,63297262,primary,440000,9167,2022-07-13 14:21:36,2022-08-08 14:22:50,2,apartment,https://www.otodom.pl/pl/oferta/ponikwoda-48m2-garaz-1-pietro-poludniowe-balkon-ID4hAwA.html
+603,48.76,2022,lublin,ground_floor,62737562,primary,424460,8705,2022-02-05 09:12:18,2022-08-04 10:30:11,3,apartment,https://www.otodom.pl/pl/oferta/koncertowa-18-nowe-budownictwo-0-prowizji-ID4feUa.html
+604,50,1965,lublin,floor_1,62667769,secondary,398850,7977,2022-01-17 11:18:23,2022-07-31 13:42:21,3,block,https://www.otodom.pl/pl/oferta/fantastyczne-mieszkanie-1-pietro-0-prowizji-ID4eVKt.html
+605,,,,,,,,,,,,,
+606,50.04,2022,lublin,ground_floor,61702293,primary,400320,8000,2021-04-06 13:10:47,2022-08-04 19:00:36,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-w-inwestycji-nowa-jantarowa-b1m46-ID4aTAh.html
+607,59.67,2022,lublin,ground_floor,61702220,primary,483327,8100,2021-04-06 13:00:48,2022-08-05 19:00:21,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-w-inwestycji-nowa-jantarowa-b1m1-ID4aTz6.html
+608,78.35,2000,lublin,ground_floor,63292089,secondary,680000,8679,2022-07-12 12:26:33,2022-07-27 12:30:16,3,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-w-doskonalej-lokalizacji-ID4hza9.html
+609,59.59,2008,lublin,floor_3,63035017,secondary,515000,8642,2022-04-29 15:20:49,2022-07-28 16:00:59,3,block,https://www.otodom.pl/pl/oferta/lublin-bazylianowka-3-pokoje-ul-dozynkowa-ID4guhP.html
+610,54.5,1965,lublin,floor_2,63176088,secondary,489000,8972,2022-06-08 13:31:57,2022-08-07 14:02:46,3,block,https://www.otodom.pl/pl/oferta/lublin-lsm-ul-balladyny-3-pokoje-ID4h4Za.html
+611,56,1971,lublin,floor_4,63060562,secondary,499000,8911,2022-05-09 13:50:48,2022-08-08 14:30:53,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-lublin-lsm-ul-krasinskiego-4pokoje-ID4gAWQ.html
+612,124.95,1879,lublin,floor_3,62866909,secondary,960000,7683,2022-03-11 14:32:07,2022-08-08 15:45:34,5,tenement,https://www.otodom.pl/pl/oferta/centrum-125-m2-obok-placu-litewskiego-ID4fMyp.html
+613,57.54,1974,lublin,floor_3,62987961,secondary,340000,5909,2022-04-14 18:12:00,2022-08-03 07:15:08,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokojowe-57-5-m2-melgiewska-ID4gi2R.html
+614,69.2,1998,lublin,floor_1,63241688,secondary,569000,8223,2022-06-28 13:45:41,2022-07-28 14:01:28,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-czechow-dolny-ID4hm3e.html
+615,,,,,,,,,,,,,
+616,61.9,1970,lublin,floor_9,63341846,secondary,509000,8223,2022-07-27 10:25:15,2022-08-02 16:12:13,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-63-m2-3-pokoje-lsm-ID4hM6G.html
+617,62.2,1978,lublin,floor_2,63279387,secondary,529000,8505,2022-07-08 13:01:12,2022-08-07 13:16:19,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-na-czechowie-idealne-pod-wynajem-ID4hwRh.html
+618,61.8,1998,lublin,floor_3,63295642,secondary,389000,6294,2022-07-13 09:55:22,2022-08-07 09:21:01,3,block,https://www.otodom.pl/pl/oferta/trzy-pokoje-klimatyczne-dwustronne-czuby-ID4hA5s.html
+619,62.2,1986,lublin,floor_4,63279391,secondary,529000,8505,2022-07-08 13:01:21,2022-08-07 13:16:21,4,block,https://www.otodom.pl/pl/oferta/atrakcyjne-4-pokoje-na-czechowie-ul-lipinskiego-ID4hwRl.html
+620,61.18,1960,lublin,ground_floor,63295979,secondary,495000,8091,2022-07-13 10:57:13,2022-07-27 10:56:10,3,tenement,https://www.otodom.pl/pl/oferta/mieszkanie-sprzedaz-3-pokoje-probostwo-lublin-ID4hAaT.html
+621,60,1980,lublin,floor_10,63285536,secondary,499000,8317,2022-07-10 20:45:15,2022-07-27 10:45:12,4,block,https://www.otodom.pl/pl/oferta/czteropokojowe-mieszkanie-po-generalnym-remoncie-ID4hxss.html
+622,78.1,1997,lublin,floor_3,63341897,secondary,519000,6645,2022-07-27 10:41:34,2022-08-07 15:26:17,4,block,https://www.otodom.pl/pl/oferta/slawinek-rogatka-warszawska-przestronne-4-pokoje-ID4hM7w.html
+623,48,1980,lublin,floor_4,63341881,secondary,410000,8542,2022-07-27 10:33:03,2022-08-07 15:27:02,3,block,https://www.otodom.pl/pl/oferta/czechow-blisko-medyczny-3-pokoje-po-remoncie-ID4hM7f.html
+624,54.1,1999,lublin,ground_floor,63283076,secondary,481000,8891,2022-07-09 15:03:39,2022-08-08 15:16:36,3,block,https://www.otodom.pl/pl/oferta/trzy-pokoje-w-niskim-bloku-na-slawinie-ID4hvOM.html
+625,74.6,1993,lublin,floor_2,63238997,secondary,590000,7909,2022-06-27 18:32:41,2022-07-27 18:35:48,4,block,https://www.otodom.pl/pl/oferta/mieszkanie-4-pok-dziesiata-lublin-bezposrednio-ID4hllP.html
+626,39,1970,lublin,floor_10,63227566,secondary,379000,9718,2022-06-23 17:45:06,2022-08-05 22:11:44,2,block,https://www.otodom.pl/pl/oferta/lsm2-pokoje-idealna-na-wynajem-wyposazone-ID4hins.html
+627,83,2008,lublin,floor_3,63226874,secondary,575000,6928,2022-06-23 15:16:28,2022-07-25 14:04:10,4,block,https://www.otodom.pl/pl/oferta/4-pokoje-bajkowa-slawinek-2-poziomy-ID4hici.html
+628,59.7,1989,lublin,floor_4,63196080,secondary,430000,7203,2022-06-14 09:40:47,2022-08-05 09:46:38,3,block,https://www.otodom.pl/pl/oferta/mieszkanie-59-7-m2-lublin-cena-do-negocjacji-ID4habC.html
+629,,,,,,,,,,,,,
+630,,,,,,,,,,,,,
+631,60.78,2008,lublin,floor_2,63026297,secondary,540000,8885,2022-04-27 15:10:49,2022-08-04 15:51:02,3,block,https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-z-panorama-na-miasto-ID4gs1b.html

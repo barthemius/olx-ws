@@ -36,7 +36,7 @@ class DataSet:
 def get_filenames():
 
     filenames = []
-    for filename in os.listdir(os.getcwd()):
+    for filename in os.listdir(os.getcwd() + "/data"):
         if filename.endswith(".csv"):
             filenames.append(filename)
     return filenames
