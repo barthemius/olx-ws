@@ -3,7 +3,7 @@
 # The data is collected from olx.pl and otodom.pl.
 #
 
-from dash import Dash, callback_context, no_update, html, Input, Output, dcc
+from dash import Dash, callback_context, no_update, html, Input, Output, dcc, dash_table
 from load_data import *
 import plotly.express as px
 import datetime
@@ -30,6 +30,12 @@ app.layout = html.Div(
             options=dropdown_options, 
             value=dropdown_options[0]
             ),
+
+        html.Div(id='div-table',
+            children=[
+                dash_table.DataTable(id='data-table')
+            ]
+        ),
 
         # Plots 2x2 grid
 
@@ -69,6 +75,50 @@ app.layout = html.Div(
                 
                 
 # TODO 'https://plotly.com/python/figure-labels/ '              
+# Callback for data table
+@app.callback(
+    [Output('data-table', 'data'), Output('data-table', 'columns')],
+    [Input('date-dropdown', 'value')]
+)
+def update_data_table(input_value):
+
+    for i in range(n):
+        if dtolx[i].time.strftime("%d %B %Y") == input_value:
+            dolx = DataSet(dtolx[i].time, dtolx[i].data)
+        if dtod[i].time.strftime("%d %B %Y") == input_value:
+            dod = DataSet(dtod[i].time, dtod[i].data)
+
+    # Debugging printing
+    #print(float(dolx.days_passed().mean()))
+
+    # Compute descritive statistics for the data
+    mean_price = int((dolx.price().mean() + dod.price().mean())/2)
+    mean_price_per_m2 = int((dolx.ppm2().mean() + dod.ppm2().mean())/2)
+    mean_days_passed = int((dolx.days_passed().mean() + dod.days_passed().mean())/2)
+    mean_build_year = int(dod.data['build_year'].mean())
+
+    # Create data table
+    data_table = [
+        {
+            'date': input_value,
+            'mean_price': mean_price,
+            'mean_price_per_m2': mean_price_per_m2,
+            'mean_days_passed': mean_days_passed,
+            'mean_build_year': mean_build_year
+        }
+    ]
+
+    # Create columns
+    columns = [{"name": i, "id": i} for i in data_table[0].keys()]
+
+    # print(data_table)
+    # print(columns)
+
+    return data_table, columns
+
+
+
+
 
 # Callback for the every graph
 @app.callback(
@@ -85,7 +135,8 @@ def update_price_graph(input_value):
             dod = dtod[i]
         
     # Create the figure
-    full_data = pd.concat((dolx.price(), dod.price()))
+    full_data = pd.concat((dolx.price(), dod.price()), axis=0)
+    full_data = full_data[full_data < 1200000]
     fig = px.histogram(
         full_data,
         x="price",
@@ -113,7 +164,8 @@ def update_price_per_m2_graph(input_value):
             dod = dtod[i]
         
     # Create the figure
-    full_data = pd.concat((dolx.ppm2(), dod.ppm2()))
+    full_data = pd.concat((dolx.ppm2(), dod.ppm2()), axis = 0)
+    full_data = full_data[full_data < 20000]
     fig = px.histogram(
         full_data, 
         x="price_per_m2", 

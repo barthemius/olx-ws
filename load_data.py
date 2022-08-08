@@ -11,7 +11,7 @@ from datetime import datetime
 class DataSet:
     def __init__(self, time, data):
         self.time = time
-        self.data = data
+        self.data = data.copy()
 
     def __str__(self):
         return "DataSet: time = {}".format(self.time)
