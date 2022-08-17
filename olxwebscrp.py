@@ -129,7 +129,7 @@ def extract_data_otodom(link):
         }
 
     except:
-        print("Error in reading data from JSON")
+        #print("Error in reading data from JSON")
         collected_data = {
             "m": "",
             "build_year": "",
@@ -165,7 +165,7 @@ def collect_data_save_table(npages=10):
     for link in tqdm(olx_links):
         olx_data.append(extract_data_olx(link))
 
-    pd.DataFrame(olx_data).to_csv("olx_data_{}_{}_{}.csv".format(day, month, year))
+    pd.DataFrame(olx_data).to_csv("data/olx_data_{}_{}_{}.csv".format(day, month, year))
 
     # Extracting data from otodom.pl
     print("Extracting data from otodom.pl...")
@@ -174,7 +174,7 @@ def collect_data_save_table(npages=10):
         otodom_data.append(extract_data_otodom(link))
 
     pd.DataFrame(otodom_data).to_csv(
-        "otodom_data_{}_{}_{}.csv".format(day, month, year))
+        "data/otodom_data_{}_{}_{}.csv".format(day, month, year))
 
 
 #### MAIN ####
