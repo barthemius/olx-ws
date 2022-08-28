@@ -91,11 +91,21 @@ def update_data_table(input_value):
     # Debugging printing
     #print(float(dolx.days_passed().mean()))
 
-    # Compute descritive statistics for the data
-    mean_price = int((dolx.price().mean() + dod.price().mean())/2)
-    mean_price_per_m2 = int((dolx.ppm2().mean() + dod.ppm2().mean())/2)
-    mean_days_passed = int((dolx.days_passed().mean() + dod.days_passed().mean())/2)
-    mean_build_year = int(dod.data['build_year'].mean())
+    # Check if dod is empty
+    if not dod.data.empty:
+        
+        # Compute descritive statistics for the data
+        mean_price = int((dolx.price().mean() + dod.price().mean())/2)
+        mean_price_per_m2 = int((dolx.ppm2().mean() + dod.ppm2().mean())/2)
+        mean_days_passed = int((dolx.days_passed().mean() + dod.days_passed().mean())/2)
+        mean_build_year = int(dod.data['build_year'].mean())
+
+    else:
+        # Compute descritive statistics for the data
+        mean_price = int(dolx.price().mean())
+        mean_price_per_m2 = int(dolx.ppm2().mean())
+        mean_days_passed = int(dolx.days_passed().mean())
+        mean_build_year = 0
 
     # Create data table
     data_table = [
