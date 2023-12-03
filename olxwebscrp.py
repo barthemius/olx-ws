@@ -180,5 +180,5 @@ def collect_data_save_table(npages=10):
 #### MAIN ####
 if __name__ == "__main__":
 
-    collect_data_save_table(20)
+    collect_data_save_table(25)
     # extract_data_olx("https://www.olx.pl/oferta/mieszkanie-w-krakowie-lublin-IDgZQQACX
