@@ -7,6 +7,7 @@ import numpy as np
 import os
 from datetime import datetime
 
+
 # Data set class with fields - time and dataframe
 class DataSet:
     def __init__(self, time, data):
@@ -18,7 +19,7 @@ class DataSet:
 
     def price(self):
         return self.data.loc[:, "price"]
-    
+
     def ppm2(self):
         return self.data.loc[:, "price_per_m2"]
 
@@ -27,14 +28,16 @@ class DataSet:
 
     def days_passed(self):
         dt = pd.DataFrame()
-        dt['days_passed'] = (self.data['date_lastmod'].apply(datetime.fromisoformat) - self.data['date_created'].apply(datetime.fromisoformat)).dt.days
+        dt["days_passed"] = (
+            self.data["date_lastmod"].apply(datetime.fromisoformat)
+            - self.data["date_created"].apply(datetime.fromisoformat)
+        ).apply(lambda x: x.days)
 
         return dt
 
 
 # Get csv filenames from the present directory
 def get_filenames():
-
     filenames = []
     for filename in os.listdir(os.getcwd() + "/data"):
         if filename.endswith(".csv"):
@@ -44,7 +47,6 @@ def get_filenames():
 
 # Load data from csv files
 def load_data(filenames):
-
     # Separate loading for olx and otodom data
     olx_data = []
     olx_time = []
@@ -65,15 +67,45 @@ def load_data(filenames):
         elif "otodom" in filename:
             otodom_data.append(pd.read_csv("data/" + filename, index_col=0))
             otodom_time.append(datetime.strptime(d + " " + m + " " + y, "%d %B %Y"))
-    
+
     # Clean data
     # OLX First
     olx_clean = []
     for i, data in enumerate(olx_data):
-        bloki1 = data[data['builttype'] == 'blok']
-        bloki1.rename(columns={"price_per_m": "price_per_m2", "lastRefresh": "date_lastmod", "createdTime": "date_created"}, inplace=True)
-        bloki1.drop(columns=['id', 'builttype', 'location', 'floor_select', 'furniture', 'market'], inplace=True)
-        bloki1['rooms'] = bloki1['rooms'].map({'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'six': 6, 'seven': 7, 'eight': 8, 'nine': 9, 'ten': 10})
+        bloki1 = data[data["builttype"] == "blok"]
+        bloki1.rename(
+            columns={
+                "price_per_m": "price_per_m2",
+                "lastRefresh": "date_lastmod",
+                "createdTime": "date_created",
+            },
+            inplace=True,
+        )
+        bloki1.drop(
+            columns=[
+                "id",
+                "builttype",
+                "location",
+                "floor_select",
+                "furniture",
+                "market",
+            ],
+            inplace=True,
+        )
+        bloki1["rooms"] = bloki1["rooms"].map(
+            {
+                "one": 1,
+                "two": 2,
+                "three": 3,
+                "four": 4,
+                "five": 5,
+                "six": 6,
+                "seven": 7,
+                "eight": 8,
+                "nine": 9,
+                "ten": 10,
+            }
+        )
 
         olx_clean.append(DataSet(olx_time[i], bloki1))
 
@@ -81,14 +113,11 @@ def load_data(filenames):
     otodom_clean = []
     for i, data in enumerate(otodom_data):
         bloki2 = data.dropna()
-        bloki2 = bloki2[bloki2['builttype'] == 'block']
-        bloki2 = bloki2[bloki2['build_year'] > 1900]
-        bloki2 = bloki2.drop(columns=['builttype', 'location', 'floor', 'market', 'id'])
+        bloki2 = bloki2[bloki2["builttype"] == "block"]
+        bloki2 = bloki2[bloki2["build_year"] > 1900]
+        bloki2 = bloki2.drop(columns=["builttype", "location", "floor", "market", "id"])
 
         otodom_clean.append(DataSet(otodom_time[i], bloki2))
-    
 
     # Return data and time
     return olx_clean, otodom_clean
-
-    
